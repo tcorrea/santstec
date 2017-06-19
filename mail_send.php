@@ -16,7 +16,7 @@
 
 	//Configurações do email, ajustar conforme necessidade
 	//====================================================
-	$email_destinatario = "vsm.valdeir@gmail.com"; // pode ser qualquer email que receberá as mensagens
+	$email_destinatario = "sanstec@sanstec.com.br"; // pode ser qualquer email que receberá as mensagens
 	$email_reply = "$email";
 	$email_assunto = "Contato pelo site"; // Este será o assunto da mensagem
 	//====================================================
