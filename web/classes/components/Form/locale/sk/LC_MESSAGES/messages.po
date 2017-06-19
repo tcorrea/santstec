@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>Pridať</strong> nové pole</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Meno</strong>, <strong>E-mail</strong>, <strong>Telefón</strong>, "
+"<strong></strong> a <strong>Správa</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr "Prázdna šablóna formulára, na ktorú si môžete pridať ľubovoľné pole."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Pridaním kontaktného formulára na svoju stránku zabezpečíte jednoduchú "
+"komunikáciu vašich návštevníkov s vami. Formuláre automaticky obsahujú test "
+"CAPTCHA, ktorý vám pomôže chrániť sa pred nevyžiadanou elektronickou poštou."
+
+msgid "Blank Form"
+msgstr "Prázdny formulár"
+
+msgid "Button label:"
+msgstr "Menovka tlačidla:"
+
+msgid "Checkboxes"
+msgstr "Zaškrtávacie políčka"
+
+msgid "Choose from a list"
+msgstr "Výber zo zoznamu"
+
+msgid "Contact Us"
+msgstr "Kontaktujte nás"
+
+msgid "Edit"
+msgstr "Editovať"
+
+msgid "Email field"
+msgstr "Pole e-mailovej adresy"
+
+msgid "Email form submissions to:"
+msgstr "Potvrdený formulár odosielať na e-mail:"
+
+msgid "Enter a form completion message:"
+msgstr "Zadajte správu po potvrdení formulára:"
+
+msgid "Form"
+msgstr "Formulár"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Odosielanie formulára zlyhalo. Skúste znova."
+
+msgid "Multi Line Text"
+msgstr "Viacriadkový text"
+
+msgid "Multiple Choice"
+msgstr "Viaceré možnosti"
+
+msgid "Phone field"
+msgstr "Pole telefónneho čísla"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"Odstráňte pole kliknutím na <span %s>červené X</span> alebo pridajte nové "
+"pole kliknutím na tlačidlo <strong>Pridať nové pole</strong>. Vyplnené "
+"formuláre sa odosielajú na vašu predvolenú e-mailovú adresu. Ak túto adresu "
+"chcete zmeniť, kliknite na kartu <strong>Nastavenia</strong>."
+
+msgid "Select a starting form type:"
+msgstr "Vyberte východiskový typ formulára:"
+
+msgid "Settings"
+msgstr "Nastavenia"
+
+msgid "Single Line Text"
+msgstr "Jednoriadkový text"
+
+msgid "Starting Form Fields:"
+msgstr "Východiskové polia formulára:"
+
+msgid "Submit"
+msgstr "Potvrdiť"
+
+msgid "Text"
+msgstr "Text"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Toto je správa, ktorú návštevník vašej stránky uvidí po<br /> úspešnom "
+"potvrdení formulára."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"Ak chcete pridať formulár, zvoľte šablónu „<strong>Kontaktujte nás</strong>“ "
+"alebo „<strong>Prázdny formulár</strong>“."
+
+msgid "URL field"
+msgstr "Pole adresy URL"

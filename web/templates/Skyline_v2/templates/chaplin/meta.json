@@ -1,0 +1,36 @@
+{
+  "sequence": 9,
+  "title": "Chaplin",
+  "slug": "chaplin",
+  "id": "6dc209d9-6a3d-488b-95d7-f4152babaf3a",
+  "baseTemplateId": "cd487f33-4699-4a12-a925-2e2f1fa1f8ca",
+  "description": [
+    "Chaplin is a transparent template that leverages textures and soft visuals to display a business’s unique quality. Like its name, the template includes a silent but powerful aesthetic that is great for any business."
+  ],
+  "meta_description": "Chaplin is a free website template from Yola. This website template is good for small business, personal and portfolio websites. Create your website today.",
+  "thumbnails" : {
+    "100x100": "/sitetemplates/Skyline_v2/templates/chaplin/chaplin_100x100.jpg",
+    "300x300": "/sitetemplates/Skyline_v2/templates/chaplin/chaplin_300x300.jpg",
+    "330x210": "/sitetemplates/Skyline_v2/templates/chaplin/chaplin_330x210.jpg",
+    "660x460": "/sitetemplates/Skyline_v2/templates/chaplin/chaplin_660x460.jpg"
+  },
+  "features": [],
+  "style":"skyline_v2",
+  "tags": ["recommended", "gallery"],
+  "demo_url": "https://www.pacnorthfish.com/",
+  "sitedata": "/Skyline_v2/templates/chaplin/site.json",
+  "pages": {
+    "contact": {
+      "slug": "contact",
+      "pagedata": "/Skyline_v2/templates/chaplin/pages/contact/page.json"
+    },
+    "index": {
+      "slug": "index",
+      "pagedata": "/Skyline_v2/templates/chaplin/pages/index/page.json"
+    },
+    "blank": {
+      "slug": "blank",
+      "pagedata": "/Skyline_v2/templates/chaplin/pages/blank/page.json"
+    }
+  }
+}

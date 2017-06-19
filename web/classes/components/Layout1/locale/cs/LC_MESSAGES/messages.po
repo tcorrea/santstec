@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Columns"
+msgstr "Sloupce"
+
+msgid "Margin"
+msgstr "Okraj"
+
+msgid ""
+"Use the Column Divider Widget to make neat columns on your website. This is a "
+"neat way of putting items side-by-side. Simply drag the widget onto your "
+"page, and then drop your other widgets inside it. They will automatically "
+"display next to each other."
+msgstr ""
+"Pomocí widgetu Dělení do sloupců vytvoříte na webu úhledné sloupce. Je to "
+"elegantní způsob, jak zobrazit položky vedle sebe. Jednoduše přetáhněte "
+"widget na vaši stránku, a pak přetáhněte další widgety do něj. Automaticky se "
+"zobrazí vedle sebe."

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+Toevoegen</strong> keus"
+
+msgid "Click here to change"
+msgstr "Klik hier om te wijzigen"
+
+msgid "Click here to edit"
+msgstr "Klik hier om te bewerken"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"Klik in een formulierveld het label bewerken, klik en sleep formuliervelden "
+"om de volgorde te wijzigen, of klik op “Add new field” om velden toe te "
+"voegen."
+
+msgid "Click to enter URL"
+msgstr "Klik om een URL toe te voegen"
+
+msgid "Click to enter an email address"
+msgstr "Klik om een e-mailades toe te voegen"
+
+msgid "Click to enter phone number"
+msgstr "Klik om een telefoonnummer toe te voegen"
+
+msgid "Click to enter text"
+msgstr "Klik om tekst in te voeren"
+
+msgid "Contact Us"
+msgstr "Contact"
+
+msgid "Edit mode"
+msgstr "Bewerkingsmodus"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Phone"
+msgstr "Telefoon"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Velden verwijderen door te klikken op de <span %s>rodeX</span>, of een nieuw "
+"veld toevoegen door te klikken op de “<strong>Voeg nieuw veld toe</strong>” "
+"knop. Formulierverzendingen worden naar uw geregistreerde e-mailadres "
+"verzonden. Klik op de “<strong>Instellingen</strong>” tabblad om dit e-"
+"mailadres te wijzigen."
+
+msgid "Reserved Field Name"
+msgstr "Gereserveerde veldnaam"
+
+msgid "Saving Form"
+msgstr "Formulier opslaan"
+
+msgid "Submit"
+msgstr "Indienen"
+
+msgid "Unable to save widget."
+msgstr "Kan widget niet opslaan."
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"U kunt hier formulierveld labels toevoegen, de volgorde van de velden "
+"wijzigen, of nieuwe formuliervelden."
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"Uw formulier bevat een label met de naam van een gereserveerd veld. Wijzig "
+"het veld om door te gaan."
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "Het formulier is met succes ingediend! Bedankt!"
+
+msgid "item 1"
+msgstr "punt 1"
+
+msgid "item 2"
+msgstr "punt 2"
+
+msgid "item 3"
+msgstr "punt 3"

@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Choose A Link"
+msgstr "Scegli un Link"
+
+msgid "Saving..."
+msgstr "Saving..."
+
+msgid "Select an image"
+msgstr "Seleziona un'immagine"

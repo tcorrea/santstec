@@ -1,0 +1,24 @@
+
+<style>
+    <name>Facebook</name>
+    <description></description>
+    <displayName></displayName>
+    <price></price>
+    <sequence>101231</sequence>
+    <hidden>true</hidden>
+    <author>
+        <name>Peter Bodechtel</name>
+        <link>http://www.yola.com</link>
+        <description><![CDATA[]]>
+        </description>
+    </author>
+    <properties>
+    </properties>
+    <tags>
+        <tag>Professional Services</tag>
+        <tag>Residential &amp; Commercial Services</tag>
+        <tag>Fashion &amp; Accessories</tag>
+        <tag>Wedding</tag>
+    </tags>
+</style>
+

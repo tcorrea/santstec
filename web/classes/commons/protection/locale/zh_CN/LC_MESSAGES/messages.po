@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Invalid login details, please try again."
+msgstr "无效的登入细节，请在尝试。"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Please enter your login and password below."
+msgstr "请在下方输入你的登录密码。"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "This is a password protected page."
+msgstr "这个是一个密码保护的页面。"

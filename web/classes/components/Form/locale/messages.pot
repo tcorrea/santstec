@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr ""
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr ""
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+
+msgid "Blank Form"
+msgstr ""
+
+msgid "Button label:"
+msgstr ""
+
+msgid "Checkboxes"
+msgstr ""
+
+msgid "Choose from a list"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Email field"
+msgstr ""
+
+msgid "Email form submissions to:"
+msgstr ""
+
+msgid "Enter a form completion message:"
+msgstr ""
+
+msgid "Form"
+msgstr ""
+
+msgid "Form Post Failed. Please try again."
+msgstr ""
+
+msgid "Multi Line Text"
+msgstr ""
+
+msgid "Multiple Choice"
+msgstr ""
+
+msgid "Phone field"
+msgstr ""
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+
+msgid "Select a starting form type:"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Single Line Text"
+msgstr ""
+
+msgid "Starting Form Fields:"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+
+msgid "URL field"
+msgstr ""

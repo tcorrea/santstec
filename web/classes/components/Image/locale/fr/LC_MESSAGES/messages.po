@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Align"
+msgstr "Aligner"
+
+msgid "Alternative Text"
+msgstr "Texte de remplacement"
+
+msgid "Choose A Link"
+msgstr "Choisir un lien"
+
+msgid "Clear"
+msgstr "Transparent"
+
+msgid "Double click to upload a photo"
+msgstr "Double-cliquez pour charger une photo"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr ""
+"Glissez et déposez ce widget afin, d'ajouter une simple image sur votre page."
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Edit With Aviary"
+msgstr "Modifier avec Aviary"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Link"
+msgstr "Lien"
+
+msgid "Margin"
+msgstr "Marge"
+
+msgid "Off"
+msgstr "Désactivé"
+
+msgid "On"
+msgstr "Activé"
+
+msgid "Optimize"
+msgstr "Optimiser"
+
+msgid "Picture"
+msgstr "Image"
+
+msgid "Select Image"
+msgstr "Sélectionnez une image"

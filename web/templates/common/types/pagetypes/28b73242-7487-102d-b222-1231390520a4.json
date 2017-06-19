@@ -1,0 +1,42 @@
+{
+  "description": "Entice diners with descriptions of your culinary creations.",
+  "id": "28b73242-7487-102d-b222-1231390520a4",
+  "layout":
+  {
+    "displayName": "2-Column Left",
+    "name": "layout_C",
+    "regions": [
+    {
+      "defaultHeight": "400px",
+      "name": "sys_region_1"
+    },
+    {
+      "defaultHeight": "400px",
+      "name": "sys_region_2"
+    }],
+    "sequence": 3
+  },
+  "name": "Menu",
+  "properties":
+  {
+    "banner.background-color": null,
+    "banner.src": null,
+    "body.background-attachment": null,
+    "body.background-color": null,
+    "body.background-image": null,
+    "body.background-position": null,
+    "body.background-repeat": null,
+    "heading.style": null,
+    "heading.text": null,
+    "layout.lock": null,
+    "logo.background-color": null,
+    "logo.src": null,
+    "logo.visible": null,
+    "meta.description": null,
+    "meta.keywords": null,
+    "title.text": null
+  },
+  "tags": ["##sys_menu_text_menu_category##", "##sys_menu_text_specials##",
+    "##sys_currency##", "##sys_menu_text_item_name##", "##sys_menu_title##"
+  ]
+}

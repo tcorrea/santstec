@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+hozzáadás</strong> választás"
+
+msgid "Click here to change"
+msgstr "Kattintson ide a módosításhoz"
+
+msgid "Click here to edit"
+msgstr "Kattints ide a szerkesztéshez"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"Kattintson az űrlap mezőre a címke szerkesztéséhez, kattintson, és húzza "
+"körbe az űrlapmezőket a sorrend módosításához, vagy kattintson az \"Új mező "
+"hozzáadása\" menüre a mezők hozzáadásához."
+
+msgid "Click to enter URL"
+msgstr "Kattints az URL megadásához"
+
+msgid "Click to enter an email address"
+msgstr "Kattints egy e-mail cím megadásához"
+
+msgid "Click to enter phone number"
+msgstr "Kattints telefonszám megadásához"
+
+msgid "Click to enter text"
+msgstr "Kattints a szöveg beviteléhez"
+
+msgid "Contact Us"
+msgstr "Lépjen kapcsolatba velünk"
+
+msgid "Edit mode"
+msgstr "Szerkesztési üzemmód"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Message"
+msgstr "Üzenet"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Phone"
+msgstr "Telefon"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Távolíts el mezőket a <span %s> piros X </span> kattintásával, vagy adj hozzá "
+"egy új mezőt, rákattintva az \"<strong> Új mező hozzáadása </strong>\" "
+"gombra. Az űrlap beküldések az alapértelmezett e-mail címre lesznek elküldve. "
+"Kattints a \"<strong> Beállítások </strong>\" fülre a cím módosításához."
+
+msgid "Reserved Field Name"
+msgstr "Fenntartott terület neve"
+
+msgid "Saving Form"
+msgstr "Űrlap mentése"
+
+msgid "Submit"
+msgstr "Küldés"
+
+msgid "Unable to save widget."
+msgstr "Modul mentése sikertelen"
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"Hozzáadhatsz űrlapmező címkéket, módosíthatsz mezőket, vagy hozzáadhatsz új "
+"űrlap mezőket itt."
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"Az űrlap tartalmaz egy fenntartott mező nevű címkét . Nevezd át a mezőt a "
+"folytatáshoz."
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "Az űrlap sikeresen elküldésre került! Köszönjük!"
+
+msgid "item 1"
+msgstr "1. tétel"
+
+msgid "item 2"
+msgstr "2. tétel"
+
+msgid "item 3"
+msgstr "3. tétel"

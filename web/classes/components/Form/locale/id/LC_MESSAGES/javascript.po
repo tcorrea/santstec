@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+Tambah</strong> pilihan"
+
+msgid "Click here to change"
+msgstr "Klik di sini untuk mengubah"
+
+msgid "Click here to edit"
+msgstr "Klik di sini untuk menyunting"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"Klik pada bidang formulir untuk menyunting label, klik dan tarik bidang "
+"formulir untuk mengubah urutan, atau klik pada \"Tambah bidang baru\" untuk "
+"menambahkan bidang."
+
+msgid "Click to enter URL"
+msgstr "Klik untuk mengisi URL"
+
+msgid "Click to enter an email address"
+msgstr "Klik untuk mengisi alamat email"
+
+msgid "Click to enter phone number"
+msgstr "Klik untuk mengisi nomor telepon"
+
+msgid "Click to enter text"
+msgstr "Klik untuk memasukkan teks"
+
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+msgid "Edit mode"
+msgstr "Modus sunting"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Message"
+msgstr "Pesan"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Phone"
+msgstr "Telepon"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Hapus bidang dengan mengeklik <span %s>X merah</span>, atau tambahkan bidang "
+"baru dengan mengeklik tombol \"<strong>Tambahkan bidang baru</strong>\". "
+"Pengajuan formulir dikirimkan ke alamat email Anda yang terdaftar. Klik pada "
+"tab \"<strong>Pengaturan</strong>\" untuk mengubah alamat ini."
+
+msgid "Reserved Field Name"
+msgstr "Nama Bidang Dicadangkan"
+
+msgid "Saving Form"
+msgstr "Menyimpan Formulir"
+
+msgid "Submit"
+msgstr "Kirim"
+
+msgid "Unable to save widget."
+msgstr "Tidak dapat menyimpan widget."
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"Anda dapat menambahkan label bidang formulir, mengubah urutan bidang, atau "
+"menambahkan bidang formulir baru di sini."
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"Formulir Anda memiliki label dengan nama bidang yang dicadangkan. Silakan "
+"ubah nama bidang untuk melanjutkan."
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "Formulir Anda berhasil diajukan! Terima kasih!"
+
+msgid "item 1"
+msgstr "item 1"
+
+msgid "item 2"
+msgstr "item 2"
+
+msgid "item 3"
+msgstr "item 3"

@@ -1,0 +1,36 @@
+{
+  "sequence": 6,
+  "title": "Carbon",
+  "slug": "carbon",
+  "id": "975106e9-a8c6-4f79-8606-43ec3160d4ea",
+  "baseTemplateId": "cd487f33-4699-4a12-a925-2e2f1fa1f8ca",
+  "description": [
+    "Carbon is a clean and easy template featuring different font weights, a three-column footer and horizontal navigation. It is versatile and meets the needs of any multi-faceted business with or without a logo."
+  ],
+  "meta_description": "Carbon is a free website template. Build your website for free with Yola using the Carbon website template. Choose a website template and start building.",
+  "thumbnails" : {
+    "100x100": "/sitetemplates/Skyline_v2/templates/carbon/carbon_100x100.jpg",
+    "300x300": "/sitetemplates/Skyline_v2/templates/carbon/carbon_300x300.jpg",
+    "330x210": "/sitetemplates/Skyline_v2/templates/carbon/carbon_330x210.jpg",
+    "660x460": "/sitetemplates/Skyline_v2/templates/carbon/carbon_660x460.jpg"
+  },
+  "features": [],
+  "style":"skyline_v2",
+  "tags": ["recommended", "gallery"],
+  "demo_url": "https://www.home-grown-usa.com/",
+  "sitedata": "/Skyline_v2/templates/carbon/site.json",
+  "pages": {
+    "blank": {
+      "slug": "blank",
+      "pagedata": "/Skyline_v2/templates/carbon/pages/blank/page.json"
+    },
+    "contact-us": {
+      "slug": "contact-us",
+      "pagedata": "/Skyline_v2/templates/carbon/pages/contact-us/page.json"
+    },
+    "index": {
+      "slug": "index",
+      "pagedata": "/Skyline_v2/templates/carbon/pages/index/page.json"
+    }
+  }
+}

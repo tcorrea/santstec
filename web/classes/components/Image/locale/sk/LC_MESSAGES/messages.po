@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Align"
+msgstr "Zarovnať"
+
+msgid "Alternative Text"
+msgstr "Alternatívny text"
+
+msgid "Choose A Link"
+msgstr "Vybrať odkaz"
+
+msgid "Clear"
+msgstr "Zmazať"
+
+msgid "Double click to upload a photo"
+msgstr "Dvojklikom odovzdajte fotografiu"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr ""
+"Presuňte túto miniaplikáciu na svoju stránku, ak chcete na stránku pridať "
+"jednotlivý obrázok."
+
+msgid "Edit"
+msgstr "Editovať"
+
+msgid "Edit With Aviary"
+msgstr "Editovať v aplikácii Aviary"
+
+msgid "Image"
+msgstr "Obrázok"
+
+msgid "Link"
+msgstr "Odkaz"
+
+msgid "Margin"
+msgstr "Okraj"
+
+msgid "Off"
+msgstr "Vypnúť"
+
+msgid "On"
+msgstr "Zapnúť"
+
+msgid "Optimize"
+msgstr "Optimalizovať"
+
+msgid "Picture"
+msgstr "Obrázok"
+
+msgid "Select Image"
+msgstr "Vybrať obrázok"

@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid ""
+"Add a block of text to your page. You can format text, add pictures, create "
+"links and more."
+msgstr ""
+"Pridajte na svoju stránku text. Text môžete formátovať, môžete k nemu pridať "
+"obrázky, vytvárať odkazy a omnoho viac."
+
+msgid "Safe Mode"
+msgstr "Bezpečný režim"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Text Widget"
+msgstr "Textová miniaplikácia"

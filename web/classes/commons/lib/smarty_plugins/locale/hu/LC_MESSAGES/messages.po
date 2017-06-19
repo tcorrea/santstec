@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Go to www.yola.com and sign up today!"
+msgstr "Lépjen a www.yola.com oldalra és regisztráljon még ma!"
+
+#, php-format
+msgid "Make a <a %1$s >Free Website</a> with <span %2$s >Yola.</span>"
+msgstr ""
+"Készítsen egy <a %1$s > ingyenes honlapot </a> a Yola <span %2$s > "
+"segítségével. </span>"
+
+#, php-format
+msgid "Make a <a %1$s>free website</a> with <a %2$s><span>Yola</span></a>"
+msgstr ""
+"Készítsen egy <a %1$s> ingyenes honlapot</a> a Yola <a "
+"%2$s><span>segítségével</span></a>"
+
+#, php-format
+msgid "Make a <a %1$s>website</a> with <a %2$s><span>Yola</span></a>"
+msgstr ""
+"Készítsen egy <a %1$s>honlapot</a> a Yola <a %2$s><span>segítségével</span></"
+"a>"
+
+msgid "No HTML skills required. Build your website in minutes."
+msgstr "Nem szükségesek HTML ismeretek. Készítse el a honlapját percek alatt."
+
+msgid "This free website was made using Yola."
+msgstr "Ez az ingyenes honlap a Yola használatával készült."
+
+msgid "This website was made using Yola."
+msgstr "Ez a honlap a Yola használatával készült."
+
+msgid "Visit Yola.com to create your own free website"
+msgstr "Látogassa meg a Yola.com oldalt, hogy elkészítse ingyenes honlapját"
+
+msgid "Visit Yola.com to create your own website"
+msgstr "Látogassa meg a Yola.com oldalt, hogy elkészítse saját honalpját"

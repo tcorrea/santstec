@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Invalid login details, please try again."
+msgstr "Ugyldig påloggingsinformasjon, vennligst prøv igjen."
+
+msgid "Login"
+msgstr "Logg inn"
+
+msgid "Password"
+msgstr "Passord"
+
+msgid "Password:"
+msgstr "Passord:"
+
+msgid "Please enter your login and password below."
+msgstr "Vennligst skriv inn ditt brukernavn og passord nedenfor."
+
+msgid "Submit"
+msgstr "Send inn"
+
+msgid "This is a password protected page."
+msgstr "Dette er en passordbeskyttet side."

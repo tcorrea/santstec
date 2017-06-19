@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Go to www.yola.com and sign up today!"
+msgstr "www.yola.comへ行って、今すぐ登録しよう!"
+
+#, php-format
+msgid "Make a <a %1$s >Free Website</a> with <span %2$s >Yola.</span>"
+msgstr "<span %2$s >Yola</span>で<a %1$s >無料ウェブサイト</a>を作成"
+
+#, php-format
+msgid "Make a <a %1$s>free website</a> with <a %2$s><span>Yola</span></a>"
+msgstr "<a %2$s><span>Yola</span></a>で<a %1$s>無料ウェブサイト</a>を作成"
+
+#, php-format
+msgid "Make a <a %1$s>website</a> with <a %2$s><span>Yola</span></a>"
+msgstr "<a %2$s><span>Yola</span></a>で<a %1$s>ウェブサイト</a>を作成。"
+
+msgid "No HTML skills required. Build your website in minutes."
+msgstr "HTMLの知識は必要ありません。数分でウェブサイトを作成しましょう。"
+
+msgid "This free website was made using Yola."
+msgstr "この無料ウェブサイトはYolaによって作成されました。"
+
+msgid "This website was made using Yola."
+msgstr "このウェブサイトは、Yolaを利用して作成されました。"
+
+msgid "Visit Yola.com to create your own free website"
+msgstr "Yola.comを訪れて無料で自分のウェブサイトを作成しましょう。"
+
+msgid "Visit Yola.com to create your own website"
+msgstr "自分のウェブサイトをつくるなら Yola.com にいってください"

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+Agregar</strong> elección"
+
+msgid "Click here to change"
+msgstr "Haga clic aquí para cambiar"
+
+msgid "Click here to edit"
+msgstr "Haga clic aquí para editar"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"Haga clic en un campo del formulario para editar la etiqueta, haga clic en "
+"los campos del formulario y arrástrelos por la pantalla para cambiarlos de "
+"orden, o bien, haga clic en \"Añadir nuevo campo\" para añadir campos."
+
+msgid "Click to enter URL"
+msgstr "Haz clic para ingresar el URL"
+
+msgid "Click to enter an email address"
+msgstr "Haz clic para ingresar una dirección de correo electrónico"
+
+msgid "Click to enter phone number"
+msgstr "Haz clic para ingresar número de teléfono"
+
+msgid "Click to enter text"
+msgstr "Haga clic para introducir texto"
+
+msgid "Contact Us"
+msgstr "Contáctanos"
+
+msgid "Edit mode"
+msgstr "Editar modo"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Haz clic en la <span %s>X roja</span> para eliminar campos, o agrega un nuevo "
+"espacio con el botón \"<strong>Agregar nuevo campo</strong>\". Los "
+"formularios completados son enviados a la dirección de correo electrónico que "
+"registraste. Para cambiar esta dirección de correo haz clic en la pestaña "
+"\"<strong>Configuraciones</strong>\"."
+
+msgid "Reserved Field Name"
+msgstr "Nombre de espacio reservado"
+
+msgid "Saving Form"
+msgstr "Guardando formulario"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Unable to save widget."
+msgstr "No es posible guardar el Widget."
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"Es posible añadir etiquetas de campos del formulario, cambiar el orden de los "
+"campos, o añadir nuevos campos del formulario aquí."
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"Tu formulario contiene una etiqueta con un nombre de espacio reservado. Por "
+"favor cambia el nombre del espacio para continuar."
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "¡Su formulario se ha enviado correctamente! ¡Gracias!"
+
+msgid "item 1"
+msgstr "elemento 1"
+
+msgid "item 2"
+msgstr "elemento 2"
+
+msgid "item 3"
+msgstr "elemento 3"

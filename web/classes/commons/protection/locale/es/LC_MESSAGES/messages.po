@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Invalid login details, please try again."
+msgstr ""
+"Los datos de inicio de sesión no son válidos, por favor, vuelva a intentarlo."
+
+msgid "Login"
+msgstr "Inicio de sesión"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Password:"
+msgstr "Contraseña:"
+
+msgid "Please enter your login and password below."
+msgstr ""
+"Por favor, introduzca el nombre de usuario y la contraseña a continuación."
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "This is a password protected page."
+msgstr "Esta página está protegida por una contraseña."

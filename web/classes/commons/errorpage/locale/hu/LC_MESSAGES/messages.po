@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Page Not Found"
+msgstr "Az Oldal Nem Található"
+
+msgid ""
+"Sorry, we can't seem to find that page, click <a href=\"%1\">here</a> to "
+"return to the homepage."
+msgstr ""
+"Sajnos nem sikerült megtalálni a keresett oldalt. Kattints <a href="
+"\"%1\">ide</a>, hogy visszatérj a kezdőlapra."

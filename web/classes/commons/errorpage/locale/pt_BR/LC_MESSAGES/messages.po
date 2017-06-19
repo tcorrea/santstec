@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Page Not Found"
+msgstr "Página Não Encontrada"
+
+msgid ""
+"Sorry, we can't seem to find that page, click <a href=\"%1\">here</a> to "
+"return to the homepage."
+msgstr ""
+"Infelizmente não encontramos essa página, clique <a href=\"%1\">aqui</a> para "
+"retornar à página inicial."

@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Columns"
+msgstr "Spalten"
+
+msgid "Margin"
+msgstr "Außenabstand"
+
+msgid ""
+"Use the Column Divider Widget to make neat columns on your website. This is a "
+"neat way of putting items side-by-side. Simply drag the widget onto your "
+"page, and then drop your other widgets inside it. They will automatically "
+"display next to each other."
+msgstr ""
+"Nutzen Sie das Spaltenteiler-Widget, um Ihre Website in Spalten einzuteilen. "
+"So können Sie Elemente akkurat nebeneinander anordnen. Ziehen Sie das Widget "
+"einfach auf Ihre Seite und setzen Sie Ihre anderen Widgets in die Spalten. "
+"Die Widgets werden jetzt automatisch nebeneinander angezeigt."

@@ -1,0 +1,36 @@
+{
+  "description": "Show off photos of your portfolio, office, or staff.",
+  "id": "dd3a3281-2e21-4fd8-bd88-8196538a9849",
+  "layout":
+  {
+    "displayName": "1-Column",
+    "name": "layout_A",
+    "regions": [
+    {
+      "defaultHeight": "400px",
+      "name": "sys_region_1"
+    }],
+    "sequence": 1
+  },
+  "name": "Picture gallery - Super Flat",
+  "properties":
+  {
+    "banner.background-color": null,
+    "banner.src": null,
+    "body.background-attachment": null,
+    "body.background-color": null,
+    "body.background-image": null,
+    "body.background-position": null,
+    "body.background-repeat": null,
+    "heading.style": null,
+    "heading.text": null,
+    "layout.lock": null,
+    "logo.background-color": null,
+    "logo.src": null,
+    "logo.visible": null,
+    "meta.description": null,
+    "meta.keywords": null,
+    "title.text": null
+  },
+  "tags": []
+}

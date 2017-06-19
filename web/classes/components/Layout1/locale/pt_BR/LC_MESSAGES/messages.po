@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Columns"
+msgstr "Colunas"
+
+msgid "Margin"
+msgstr "Margem"
+
+msgid ""
+"Use the Column Divider Widget to make neat columns on your website. This is a "
+"neat way of putting items side-by-side. Simply drag the widget onto your "
+"page, and then drop your other widgets inside it. They will automatically "
+"display next to each other."
+msgstr ""
+"Use o Widget Divisor de Colunas para organizar colunas em seu site. Esta é "
+"uma maneira elegante de colocar itens lado a lado. Basta clicar e arrastar o "
+"widget à sua página, e em seguida, coloque seus outros widgets em seu "
+"interior. Eles irão aparecer automaticamente um ao lado do outro."

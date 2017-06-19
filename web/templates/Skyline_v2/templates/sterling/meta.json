@@ -1,0 +1,39 @@
+{
+  "baseTemplateId": "cd487f33-4699-4a12-a925-2e2f1fa1f8ca",
+  "demo_url": "http://bradleysterling.yolasite.com",
+  "description": [
+    "Sterling is a modern template boasting a sleek color scheme, parallax banners, and bold color-blocked sections. It is polished and professional, yet its intuitive style and flexibility makes it simple to customize for your own business."
+  ],
+  "features": [],
+  "id": "d5d57282-bbf8-443a-890d-8cf120c0f811",
+  "meta_description": "Sterling is a modern template boasting a sleek color scheme, parallax banners, and bold color-blocked sections. It is polished and professional, yet its intuitive style and flexibility makes it simple to customize for your own business.",
+  "pages": {
+    "about": {
+      "pagedata": "/Skyline_v2/templates/sterling/pages/about/page.json",
+      "slug": "about"
+    },
+    "blank": {
+      "pagedata": "/Skyline_v2/templates/sterling/pages/blank/page.json",
+      "slug": "blank"
+    },
+    "index": {
+      "pagedata": "/Skyline_v2/templates/sterling/pages/index/page.json",
+      "slug": "index"
+    }
+  },
+  "sequence": 15,
+  "sitedata": "/Skyline_v2/templates/sterling/site.json",
+  "slug": "sterling",
+  "style": "skyline_v2",
+  "tags": [
+    "recommended",
+    "gallery"
+  ],
+  "thumbnails": {
+    "100x100": "/sitetemplates/Skyline_v2/templates/sterling/sterling_100x100.jpg",
+    "300x300": "/sitetemplates/Skyline_v2/templates/sterling/sterling_300x300.jpg",
+    "330x210": "/sitetemplates/Skyline_v2/templates/sterling/sterling_330x210.jpg",
+    "660x460": "/sitetemplates/Skyline_v2/templates/sterling/sterling_660x460.jpg"
+  },
+  "title": "Sterling"
+}

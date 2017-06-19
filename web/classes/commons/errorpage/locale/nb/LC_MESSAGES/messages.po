@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Page Not Found"
+msgstr "Siden ble ikke funnet"
+
+msgid ""
+"Sorry, we can't seem to find that page, click <a href=\"%1\">here</a> to "
+"return to the homepage."
+msgstr ""
+"Beklager, vi finner ikke siden. Klikk <a href=\"%1\">her</a> for å returnere "
+"til forsiden."

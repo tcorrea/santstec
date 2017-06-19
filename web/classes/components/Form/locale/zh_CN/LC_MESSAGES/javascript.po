@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+添加</strong>选择"
+
+msgid "Click here to change"
+msgstr "单击此处进行更改"
+
+msgid "Click here to edit"
+msgstr "单击此处进行编辑"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"单击表单字段以编辑标签，单击并拖动表单字段以更改顺序，或者单击“添加新字段”以添"
+"加字段。"
+
+msgid "Click to enter URL"
+msgstr "点击进入 URL"
+
+msgid "Click to enter an email address"
+msgstr "点击进入邮箱地址"
+
+msgid "Click to enter phone number"
+msgstr "点击进入电话号码"
+
+msgid "Click to enter text"
+msgstr "单击以输入文本"
+
+msgid "Contact Us"
+msgstr "联系我们"
+
+msgid "Edit mode"
+msgstr "编辑模式"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Name"
+msgstr "名"
+
+msgid "Phone"
+msgstr "电话"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"通过单击<span %s>红 X</span> 删除字段，或者通过单击“<strong>添加新字段</"
+"strong>”按钮添加新字段。表单提交内容会发送到您登记的电子邮件地址。单"
+"击“<strong>设置</strong>”可更改此地址。"
+
+msgid "Reserved Field Name"
+msgstr "保留字段名称"
+
+msgid "Saving Form"
+msgstr "保存表单"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Unable to save widget."
+msgstr "无法保存小部件。"
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr "您可以在此处添加表单字段标签，更改字段顺序，或者添加新的表单字段。"
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr "你的表格包含一个有保留字段名的标签。请重命名这个字段以继续。"
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "您的表格已成功提交！谢谢！"
+
+msgid "item 1"
+msgstr "项目 1"
+
+msgid "item 2"
+msgstr "项目 2"
+
+msgid "item 3"
+msgstr "项目 3"

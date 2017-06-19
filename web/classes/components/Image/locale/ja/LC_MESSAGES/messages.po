@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Align"
+msgstr "整列する"
+
+msgid "Alternative Text"
+msgstr "他のテキスト"
+
+msgid "Choose A Link"
+msgstr "リンクを選ぶ"
+
+msgid "Clear"
+msgstr "クリアする"
+
+msgid "Double click to upload a photo"
+msgstr "写真をアップロードするにはダブルクリックしてください"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr ""
+"このウィジェットにドラッグアンドドロップしてあなたのページに1つの画像を追加し"
+"てください。"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Edit With Aviary"
+msgstr "Aviaryで編集する"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "Link"
+msgstr "リンク"
+
+msgid "Margin"
+msgstr "マージン"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "On"
+msgstr "オン"
+
+msgid "Optimize"
+msgstr "最適化する"
+
+msgid "Picture"
+msgstr "画像"
+
+msgid "Select Image"
+msgstr "画像を選択する"

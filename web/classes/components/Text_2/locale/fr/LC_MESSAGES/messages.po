@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid ""
+"Add a block of text to your page. You can format text, add pictures, create "
+"links and more."
+msgstr ""
+"Ajoutez un bloc de texte sur votre page. Vous pouvez formater le texte,  "
+"ajouter des images, créer des liens et bien plus encore."
+
+msgid "Safe Mode"
+msgstr "Mode sécurisé"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Text Widget"
+msgstr "Widget Texte"

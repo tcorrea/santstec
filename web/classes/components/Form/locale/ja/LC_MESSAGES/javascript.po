@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "選択を<strong>+追加する</strong>"
+
+msgid "Click here to change"
+msgstr "変更するには、こちらをクリックして下さい"
+
+msgid "Click here to edit"
+msgstr "編集するにはここをクリックして下さい"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"ラベルを編集するには、フォーム領域内をクリックして、順序を変更するには、フォー"
+"ム領域をクリック・アンド・ドラッグして下さい、あるいは「新しい領域を追加」をク"
+"リックして領域を追加しましょう。"
+
+msgid "Click to enter URL"
+msgstr "クリックしてURLを入力"
+
+msgid "Click to enter an email address"
+msgstr "クリックしてEメールアドレスを入力"
+
+msgid "Click to enter phone number"
+msgstr "クリックして電話番号を入力"
+
+msgid "Click to enter text"
+msgstr "文字を入力するにはここをクリックして下さい"
+
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+msgid "Edit mode"
+msgstr "編集モード"
+
+msgid "Email"
+msgstr "Eメール"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Phone"
+msgstr "電話"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"<span %s>レッドX</span>をクリックすることで、領域を削除でき、また\"<strong>新"
+"しい領域を追加</strong>\"のボタンをクリックすることで、新しい領域を追加できま"
+"す。フォームへの投稿は、ご登録済のメールアドレス宛に送信されます。このアドレス"
+"を変更するには\"<strong>設定</strong>\"タブをクリックして下さい。"
+
+msgid "Reserved Field Name"
+msgstr "保存されたフィールド名"
+
+msgid "Saving Form"
+msgstr "保存形式"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Unable to save widget."
+msgstr "ウィジェットをセーブできません。"
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"フォーム領域ラベルの追加や、領域の順序の変更、または新しいフォーム領域をこちら"
+"へ追加することができます。"
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"フォームに保留したフィールド名のラベルが含まれています。続行するためにフィール"
+"ド名の変更をお願いします。"
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "あなたのフォームは無事に提出されました! ありがとうございます!"
+
+msgid "item 1"
+msgstr "商品1"
+
+msgid "item 2"
+msgstr "商品2"
+
+msgid "item 3"
+msgstr "商品3"

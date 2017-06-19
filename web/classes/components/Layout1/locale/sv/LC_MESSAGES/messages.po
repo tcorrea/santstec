@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Columns"
+msgstr "Kolumner"
+
+msgid "Margin"
+msgstr "Marginal"
+
+msgid ""
+"Use the Column Divider Widget to make neat columns on your website. This is a "
+"neat way of putting items side-by-side. Simply drag the widget onto your "
+"page, and then drop your other widgets inside it. They will automatically "
+"display next to each other."
+msgstr ""
+"Använd widgeten Kolumnavgränsare för att skapa prydliga kolumner på din "
+"webbplats. Detta är ett snyggt sätt att placera saker bredvid varandra. Dra "
+"bara widgeten till din sida, sedan kan du släppa andra widgets inuti den. De "
+"kommer automatiskt att hamna bredvid varandra."

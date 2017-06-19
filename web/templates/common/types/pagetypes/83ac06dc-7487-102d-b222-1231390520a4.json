@@ -1,0 +1,37 @@
+{
+  "description": "Give your visitors regular updates with the latest tidbits about your company or industry.",
+  "id": "83ac06dc-7487-102d-b222-1231390520a4",
+  "layout":
+  {
+    "displayName": "1-Column",
+    "name": "layout_A",
+    "regions": [
+    {
+      "defaultHeight": "400px",
+      "name": "sys_region_1"
+    }],
+    "sequence": 1
+  },
+  "name": "News",
+  "properties":
+  {
+    "banner.background-color": null,
+    "banner.src": null,
+    "body.background-attachment": null,
+    "body.background-color": null,
+    "body.background-image": null,
+    "body.background-position": null,
+    "body.background-repeat": null,
+    "commentCode": null,
+    "heading.style": null,
+    "heading.text": null,
+    "layout.lock": null,
+    "logo.background-color": null,
+    "logo.src": null,
+    "logo.visible": null,
+    "meta.description": null,
+    "meta.keywords": null,
+    "title.text": null
+  },
+  "tags": []
+}

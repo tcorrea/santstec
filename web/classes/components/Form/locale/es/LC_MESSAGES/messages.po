@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>Añadir</strong> nuevo campo</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Nombre</strong>, <strong>Correo electrónico</strong>, "
+"<strong>Teléfono</strong>, <strong></strong> y un <strong>Mensaje</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr ""
+"Una plantilla de formulario en blanco a la que le puede añadir todos los "
+"campos que desee."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Cuando agregas un formulario de contacto en tu sitio web le proporcionas a "
+"tus visitantes una forma fácil de comunicarse contigo. Los formulario "
+"incluyen automáticamente un CAPTCHA, lo cual ayuda e prevenir los correos no "
+"deseados o spam."
+
+msgid "Blank Form"
+msgstr "Formulario en blanco"
+
+msgid "Button label:"
+msgstr "Etiqueta de los botones:"
+
+msgid "Checkboxes"
+msgstr "Casillas de verificación"
+
+msgid "Choose from a list"
+msgstr "Seleccione a partir de una lista"
+
+msgid "Contact Us"
+msgstr "Contáctanos"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Email field"
+msgstr "Campo para el correo electrónico"
+
+msgid "Email form submissions to:"
+msgstr "Envíe los formularios por correo electrónico a:"
+
+msgid "Enter a form completion message:"
+msgstr "Introduzca un mensaje de finalización de formulario:"
+
+msgid "Form"
+msgstr "Formulario"
+
+msgid "Form Post Failed. Please try again."
+msgstr "El envío del formulario ha fallado. Por favor intenta de nuevo. "
+
+msgid "Multi Line Text"
+msgstr "Texto con varias líneas"
+
+msgid "Multiple Choice"
+msgstr "Opción múltiple"
+
+msgid "Phone field"
+msgstr "Campo para el teléfono"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"Puedes eliminar campos al hacer clic en la <span %s>X roja</span>, o puedes "
+"agregar un espacio nuevo con el botón \"<strong>Añadir nuevo campo</strong>"
+"\". La información enviada a través del formulario es remitida hacia tu "
+"dirección de correo definida por defecto. Para cambiar esta dirección de "
+"correo haz clic en \"<strong>Configuraciones</strong>\"."
+
+msgid "Select a starting form type:"
+msgstr "Seleccione un tipo de formulario de inicio:"
+
+msgid "Settings"
+msgstr "Configuraciones "
+
+msgid "Single Line Text"
+msgstr "Texto con una sola línea"
+
+msgid "Starting Form Fields:"
+msgstr "Campos de formularios de inicio:"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Este es el mensaje que verán los visitantes de su sitio después de enviar<br /"
+"> correctamente el formulario."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"Para añadir un formulario, seleccione una plantilla de \"<strong>Póngase en "
+"contacto con nosotros</strong>\" o una de un \"<strong>Formulario en blanco</"
+"strong>\"."
+
+msgid "URL field"
+msgstr "Campo para el URL"

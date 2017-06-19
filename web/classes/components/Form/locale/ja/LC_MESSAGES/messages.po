@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "新しいフィールド</span>を<strong>追加</strong>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>氏名</strong>、<strong>Eメール</strong>、<strong>電話</strong>、"
+"<strong></strong> および <strong>メッセージ</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr "ご希望のフィールドを追加できる空白のフォームのテンプレート。"
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"ご自身のウェブサイトにお問い合わせフォームを追加することで、訪問者の皆さんから"
+"あなたへの連絡が簡単にできるようになります。フォームは、スパムメールの防止に役"
+"立つCAPTCHAを自動的に組み込んでいます。"
+
+msgid "Blank Form"
+msgstr "白紙のフォーム"
+
+msgid "Button label:"
+msgstr "ボタンのラベル："
+
+msgid "Checkboxes"
+msgstr "チェックボックス"
+
+msgid "Choose from a list"
+msgstr "リストから選ぶ"
+
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Email field"
+msgstr "Eメール欄"
+
+msgid "Email form submissions to:"
+msgstr "Eメールフォームを提出する："
+
+msgid "Enter a form completion message:"
+msgstr "フォーム完了メッセージを入力する："
+
+msgid "Form"
+msgstr "フォーム"
+
+msgid "Form Post Failed. Please try again."
+msgstr "フォームの投稿に失敗しました。もう一度やり直してください。"
+
+msgid "Multi Line Text"
+msgstr "複数ラインのテキスト"
+
+msgid "Multiple Choice"
+msgstr "複数選択"
+
+msgid "Phone field"
+msgstr "電話欄"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"<span %s>赤いX</span>をクリックしてフィールドを削除するか、「<strong>Add new "
+"field</strong>」ボタンをクリックして、新しいフィールドを追加します。フォームの"
+"提出は、あなたのデフォルトの電子メールアドレスへ送信されます。このアドレスを変"
+"更するには、「<strong>設定</strong>」タブをクリックします。"
+
+msgid "Select a starting form type:"
+msgstr "最初のフォームタイプを選択する："
+
+msgid "Settings"
+msgstr "セッティング"
+
+msgid "Single Line Text"
+msgstr "一行のテキスト"
+
+msgid "Starting Form Fields:"
+msgstr "フィールドからスタートする"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"これは、あなたのサイトの訪問者が、<br />フォームの提出に成功した後に見るメッ"
+"セージです。"
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"フォームを追加するには、 「<strong>問い合わせ</strong>」 もしくは 「<strong>空"
+"白のフォーム</strong>」 のテンプレートを選択してください。"
+
+msgid "URL field"
+msgstr "URL欄"

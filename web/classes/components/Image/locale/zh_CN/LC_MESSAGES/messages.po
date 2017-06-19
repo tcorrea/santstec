@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Align"
+msgstr "对齐"
+
+msgid "Alternative Text"
+msgstr "替代文字"
+
+msgid "Choose A Link"
+msgstr "选择一个链接"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Double click to upload a photo"
+msgstr "双击来上传照片"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr "拖放这个部件以添加一个图片到你的页面。"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit With Aviary"
+msgstr "用 Aviary 编辑"
+
+msgid "Image"
+msgstr "图片"
+
+msgid "Link"
+msgstr "链接"
+
+msgid "Margin"
+msgstr "边框"
+
+msgid "Off"
+msgstr "关闭"
+
+msgid "On"
+msgstr "开"
+
+msgid "Optimize"
+msgstr "优化"
+
+msgid "Picture"
+msgstr "图片"
+
+msgid "Select Image"
+msgstr "选择图像"

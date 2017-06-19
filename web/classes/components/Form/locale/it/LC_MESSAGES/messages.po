@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>Aggiungi</strong> nuovo campo</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Nome</strong>, <strong>Email</strong>, <strong>Telefono</"
+"strong><strong></strong> e un <strong>Messaggio</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr ""
+"Modello di modulo vuoto in cui è possibile aggiungere i campi desiderati."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Aggiungere un modulo di contatto per il tuo sito web fornisce un modo facile "
+"per i visitatori di entrare in contatto con te. I moduli includono "
+"automaticamente un CAPTCHA, che aiuta a prevenire lo spam."
+
+msgid "Blank Form"
+msgstr "Modulo vuoto"
+
+msgid "Button label:"
+msgstr "Etichetta pulsante:"
+
+msgid "Checkboxes"
+msgstr "Caselle di controllo"
+
+msgid "Choose from a list"
+msgstr "Scegli da un elenco"
+
+msgid "Contact Us"
+msgstr "Contattaci"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "Email field"
+msgstr "Campo email"
+
+msgid "Email form submissions to:"
+msgstr "Invia il modulo a:"
+
+msgid "Enter a form completion message:"
+msgstr "Inserisci un messaggio per indicare che il modulo è stato compilato:"
+
+msgid "Form"
+msgstr "modulo"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Pubblicazione modulo non riuscita. Tenta nuovamente"
+
+msgid "Multi Line Text"
+msgstr "Testo a più righe"
+
+msgid "Multiple Choice"
+msgstr "Scelta multipla"
+
+msgid "Phone field"
+msgstr "Campo telefono"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"Rimuovi i campi cliccando <span %s>red X</span>, oppure aggiungi un nuovo "
+"campo cliccando il pulsante\"<strong>Aggiungi un nuovo campo</strong>\". I "
+"form vengono inviati al tuo indirizzo email. Fai clic su \"<strong>Settings</"
+"strong>\" per modificare l'indirizzo."
+
+msgid "Select a starting form type:"
+msgstr "Seleziona un form di partenza:"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Single Line Text"
+msgstr "Testo a una riga"
+
+msgid "Starting Form Fields:"
+msgstr "Campi del modulo iniziale:"
+
+msgid "Submit"
+msgstr "Invia"
+
+msgid "Text"
+msgstr "Testo"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Questo è il messaggio che verrà visualizzato dal visitatore del tuo sito dopo "
+"che avrà inviato<br /> correttamente il modulo."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"Per aggiungere un modulo, scegli un modello di tipo \"<strong>Contattaci</"
+"strong>\" oppure \"<strong>Modulo vuoto</strong>\"."
+
+msgid "URL field"
+msgstr "Campo URL"

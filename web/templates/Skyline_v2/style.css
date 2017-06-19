@@ -1,0 +1,605 @@
+/*
+    Some Style Themes enhanced with background textures provided by http://subtlepatterns.com/
+*/
+body {
+    <% BACKGROUND_COLOR property='body.background-color' %>
+    <% IFPROPERTY format='background-image: url(%s);' name='body.background-image' anticache='true' urlencode='true' %>
+    <% IFPROPERTY format='background-repeat: %s;' name='body.background-repeat' %>
+    <% IFPROPERTY format='background-attachment: %s;' name='body.background-attachment' %>
+    <% IFPROPERTY format='background-position: %s;' name='body.background-position' %>
+    <% IFPROPERTY format='background-size: %s;' name='body.background-size' %>
+    <% IFPROPERTY format='-webkit-background-size: %s;' name='body.background-size' %>
+    <% IFPROPERTY format='-moz-background-size: %s;' name='body.background-size' %>
+    <% IFPROPERTY format='-o-background-size: %s;' name='body.background-size' %>
+}
+
+.Text_2_Default,
+.yola_heading_container {
+  word-wrap: break-word;
+}
+
+.yola_bg_overlay {
+    display:table;
+    position:absolute;
+    min-height: 100%;
+    min-width: 100%;
+    width:100%;
+    height:100%;
+}
+.yola_outer_content_wrapper {
+    <% IFPROPERTY format='padding-top: %s;' name='body.padding-top' %>
+    <% IFPROPERTY format='padding-right: %s;' name='body.padding-right' %>
+    <% IFPROPERTY format='padding-bottom: %s;' name='body.padding-bottom' %>
+    <% IFPROPERTY format='padding-left: %s;' name='body.padding-left' %>
+}
+.yola_inner_bg_overlay {
+    width:100%;
+    height:100%;
+    display: table-cell;
+    <% BACKGROUND_COLOR property='body.foreground-color' %>
+    <% IFPROPERTY format='vertical-align: %s;' name='page.vertical-align' %>
+}
+.yola_outer_heading_wrap {
+    width:100%;
+    text-align: center;
+}
+.yola_heading_container {
+    margin: 0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='header.max-width' %>
+    <% BACKGROUND_COLOR property='header.background-color' %>
+}
+.yola_inner_heading_wrap {
+    margin: 0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='header.content.max-width' %>
+}
+.yola_innermost_heading_wrap {
+    padding-left:0;
+    padding-right:0;
+    margin: 0 auto;
+    <% IFPROPERTY format='padding-top: %s;' name='header.padding-top' %>
+    <% IFPROPERTY format='padding-bottom: %s;' name='header.padding-bottom' %>
+}
+.yola_inner_heading_wrap.top nav,
+.yola_inner_heading_wrap.top div#yola_heading_block,
+.yola_inner_heading_wrap.bottom nav,
+.yola_inner_heading_wrap.bottom div#yola_heading_block {
+    <% IFPROPERTY format='padding-left: %s;' name='header.padding-left' %>
+    <% IFPROPERTY format='padding-right: %s;' name='header.padding-right' %>
+}
+.yola_inner_heading_wrap.left .yola_innermost_heading_wrap,
+.yola_inner_heading_wrap.right .yola_innermost_heading_wrap {
+    <% IFPROPERTY format='padding-left: %s;' name='header.padding-left' %>
+    <% IFPROPERTY format='padding-right: %s;' name='header.padding-right' %>
+}
+.yola_inner_heading_wrap h1 {
+    margin: 0;
+}
+#yola_nav_block {
+    height: 100%;
+}
+#yola_nav_block nav {
+    <% IFPROPERTY format='text-align: %s;' name='nav.text-align' %>
+    <% BACKGROUND_COLOR property='nav.background-color' %>
+}
+#yola_nav_block nav ul{
+    display:inline;
+}
+.yola_inner_heading_wrap.left #yola_heading_block {
+    float:left;
+}
+.yola_inner_heading_wrap.right #yola_heading_block {
+    float:right;
+}
+.yola_inner_heading_wrap.top #yola_nav_block {
+    <% IFPROPERTY format='padding:%s 0 0 0;' name='nav.padding' %>
+}
+.yola_inner_heading_wrap.right #yola_nav_block {
+    float:left;
+    <% IFPROPERTY format='padding:%s 0 0 0;' name='nav.padding' %>
+}
+.yola_inner_heading_wrap.bottom #yola_nav_block {
+    <% IFPROPERTY format='padding:0 0 %s 0;' name='nav.padding' %>
+}
+.yola_inner_heading_wrap.left #yola_nav_block {
+    float:right;
+    <% IFPROPERTY format='padding:%s 0 0 0;' name='nav.padding' %>
+}
+.yola_banner_wrap {
+    background-attachment: scroll;
+    text-align: center;
+    margin: 0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='banner.max-width' %>
+    <% IFPROPERTY format='display: %s;' name='banner.display' %>
+    <% IFPROPERTY format='background-position: %s;' name='banner.background-position'%>
+    <% IFPROPERTY format='background-size: %s;' name='banner.background-size'%>
+    <% IFPROPERTY format='background-repeat: %s;' name='banner.background-repeat'%>
+    <% IFPROPERTY format='background-image: url(%s);' name='banner.src' anticache='true' urlencode='true' %>
+    <% IFPROPERTY format='background-color: %s;' name='banner.background-color'%>
+}
+.yola_inner_banner_wrap {
+    padding-left:0;
+    padding-right:0;
+    <% IFPROPERTY format='padding-top: %s;' name='banner.padding-top' %>
+    <% IFPROPERTY format='padding-bottom: %s;' name='banner.padding-bottom' %>
+    <% BACKGROUND_COLOR property='banner.foreground-color' %>
+}
+.yola_innermost_banner_wrap {
+    margin: 0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='banner.content.max-width' %>
+}
+.yola_inner_nav_wrap {
+    margin: 0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='content.max-width' %>
+}
+.yola_banner_wrap nav ul.sys_navigation {
+    <% IFPROPERTY format='text-align: %s;' name='nav.text-align' %>
+    <% IFPROPERTY format='padding-top:%s;' name='nav.padding' %>
+    <% IFPROPERTY format='padding-bottom:%s;' name='nav.padding' %>
+}
+.yola_banner_wrap h1 {
+    margin:0;
+    <% IFPROPERTY format='text-align: %s;' name='h1.text-align' %>
+}
+.yola_site_tagline {
+    padding-top:0;
+    padding-bottom:0;
+    <% IFPROPERTY format='font-family: %s;' name='site.tagline.font-family'%>
+    <% IFPROPERTY format='font-size: %s;' name='site.tagline.font-size'%>
+    <% IFPROPERTY format='color: %s;' name='site.tagline.color'%>
+    <% IFPROPERTY format='text-decoration: %s;' name='site.tagline.text-decoration'%>
+    <% IFPROPERTY format='letter-spacing: %s;' name='site.tagline.letter-spacing'%>
+    <% IFPROPERTY format='line-height: %s;' name='site.tagline.line-height'%>
+    <% IFPROPERTY format='text-transform: %s;' name='site.tagline.text-transform'%>
+    <% IFPROPERTY format='text-align: %s;' name='site.tagline.text-align' %>
+    <% IFPROPERTY format='padding-right: %s;' name='banner.padding-right' %>
+    <% IFPROPERTY format='padding-left: %s;' name='banner.padding-left' %>
+
+}
+.yola_site_tagline span {
+    display: inline-block;
+    <% IFPROPERTY format='padding-top: %s;' name='site.tagline.padding-top' %>
+    <% IFPROPERTY format='padding-right: %s;' name='site.tagline.padding-right' %>
+    <% IFPROPERTY format='padding-bottom: %s;' name='site.tagline.padding-bottom' %>
+    <% IFPROPERTY format='padding-left: %s;' name='site.tagline.padding-left' %>
+    <% BACKGROUND_COLOR property='site.tagline.background-color' %>
+}
+ul.sys_navigation {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ul.sys_navigation li {
+    display: inline;
+    list-style: none;
+    margin:0 <% PROPERTY name='nav.spacing' %> 0 0;
+}
+.yola_inner_heading_wrap ul.sys_navigation li:last-child {
+    margin:0;
+}
+ul.sys_navigation li a{
+    text-decoration: none;
+}
+.yola_content_wrap {
+    margin:0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='content.max-width' %>
+    <% BACKGROUND_COLOR property='content.background-color' %>
+}
+.yola_content_column {
+    margin:0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='content.content.max-width' %>
+}
+
+.yola_inner_content_column {
+    margin:0 auto;
+
+    <% IFPROPERTY format='padding-top: %s;' name='content.padding-top' %>
+    <% IFPROPERTY format='padding-right: %s;' name='content.padding-right' %>
+    <% IFPROPERTY format='padding-bottom: %s;' name='content.padding-bottom' %>
+    <% IFPROPERTY format='padding-left: %s;' name='content.padding-left' %>
+}
+.yola_inner_footer_wrap {
+    padding: 0 20px;
+}
+div[id*='sys_region_'] {
+    padding-left: 0 ! important;
+    padding-right: 0 ! important;
+}
+.yola_site_logo {
+    <% IFPROPERTY format='width: %s;' name='site.logo.width' %>
+    max-width:100%;
+}
+#sys_heading.yola_hide_logo img {
+    display:none;
+}
+#sys_heading.yola_hide_logo span {
+    display:inline;
+}
+a#sys_heading.yola_show_logo {
+    font-size:14px;
+}
+#sys_heading.yola_show_logo img {
+    display:inline;
+}
+#sys_heading.yola_show_logo span {
+    display:none;
+}
+.yola_footer_wrap {
+    margin:0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='content.max-width' %>
+    <% BACKGROUND_COLOR property='footer.background-color' %>
+}
+.yola_footer_column {
+    margin:0 auto;
+    <% IFPROPERTY format='max-width: %s;' name='content.content.max-width' %>
+    <% IFPROPERTY format='display: %s;' name='footer.display' %>
+}
+footer {
+    <% IFPROPERTY format='padding-top: %s;' name='footer.padding-top' %>
+    <% IFPROPERTY format='padding-right: %s;' name='footer.padding-right' %>
+    <% IFPROPERTY format='padding-bottom: %s;' name='footer.padding-bottom' %>
+    <% IFPROPERTY format='padding-left: %s;' name='footer.padding-left' %>
+    <% IFPROPERTY format='font-family: %s;' name='footer.font-family'%>
+    <% IFPROPERTY format='font-size: %s;' name='footer.font-size'%>
+    <% IFPROPERTY format='color: %s;' name='footer.color'%>
+    <% IFPROPERTY format='line-height: %s;' name='footer.line-height'%>
+    <% IFPROPERTY format='letter-spacing: %s;' name='footer.letter-spacing'%>
+    <% IFPROPERTY format='text-transform: %s;' name='footer.text-transform'%>
+
+}
+span.yola_footer_socialbuttons {
+    display:inline-block;
+    line-height:0;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    position:static;
+    float:left;
+    width:146px;
+    height:20px;
+    <% IFPROPERTY format='display: %s;' name='footer.socialbuttons.display'%>
+}
+.sys_yola_form .submit,
+.sys_yola_form input.text,
+.sys_yola_form input.email,
+.sys_yola_form input.tel,
+.sys_yola_form input.url,
+.sys_yola_form textarea {
+    <% IFPROPERTY format='font-family: %s;' name='p.font-family'%>
+    <% IFPROPERTY format='font-size: %s;' name='p.font-size'%>
+    <% IFPROPERTY format='color: %s;' name='p.color'%>
+    <% IFPROPERTY format='line-height: %s;' name='p.line-height'%>
+    <% IFPROPERTY format='letter-spacing: %s;' name='p.letter-spacing'%>
+    <% IFPROPERTY format='text-transform: %s;' name='p.text-transform'%>
+}
+div.sys_yola_form {
+    padding:0 !important;
+}
+div.sys_yola_form form {
+    margin:0 !important;
+    padding:0 !important;
+}
+.sys_layout h2, .sys_txt h2, .sys_layout h3, .sys_txt h3, .sys_layout h4, .sys_txt h4, .sys_layout h5, .sys_txt h5, .sys_layout h6, .sys_txt h6, .sys_layout p, .sys_txt p {
+    margin-top:0;
+}
+div[id*='sys_region_'] {
+    padding:0 !important;
+}
+.sys_layout blockquote {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 3px solid <% IFPROPERTY format='%s;' name='p.color'%>;
+    <% IFPROPERTY format='font-family: %s;' name='blockquote.font-family'%>
+    <% IFPROPERTY format='font-size: %s;' name='blockquote.font-size'%>
+    <% IFPROPERTY format='color: %s;' name='blockquote.color'%>
+    <% BACKGROUND_COLOR property='blockquote.background-color' %>
+    <% IFPROPERTY format='line-height: %s;' name='blockquote.line-height'%>
+    <% IFPROPERTY format='letter-spacing: %s;' name='blockquote.letter-spacing'%>
+    <% IFPROPERTY format='text-transform: %s;' name='blockquote.text-transform'%>
+    <% IFPROPERTY format='font-style: %s;' name='blockquote.font-style'%>
+}
+.sys_layout p,.sys_layout pre {margin:0 0 1.5em 0}
+.sys_layout h2,.sys_layout h3,.sys_layout h4,.sys_layout h5,.sys_layout h6 { margin:0 0 0.5em 0 }
+.sys_layout dl, .sys_layout menu,.sys_layout ol,.sys_layout ul{margin:0 0 1.5em 0}
+
+.mob_menu {
+    display: none;
+}
+
+.new-text-widget img, .old_text_widget img {
+    max-width: 100%;
+}
+
+<% php %>if (_SYSTEM_MODE != "DESIGN") {<% /php %>
+
+@media only screen and (max-width : 736px) {
+    html {
+        font-size: 80%;
+    }
+
+    body .m_inherit_width {
+        width: inherit;
+    }
+
+    .small_device_hide {
+        display: none;
+    }
+
+    /* Remove display table so that fixefox can understand max-width */
+    .yola_bg_overlay, .yola_inner_bg_overlay {
+       display: block;
+    }
+
+    /* Zero out padding of the heading wrapper */
+    .yola_inner_heading_wrap.top .yola_innermost_heading_wrap,
+    .yola_inner_heading_wrap.bottom .yola_innermost_heading_wrap,
+    .yola_inner_heading_wrap.left .yola_innermost_heading_wrap,
+    .yola_inner_heading_wrap.right .yola_innermost_heading_wrap {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    /* Make all image widgets center aligned */
+    .Image_Default img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    /* Center button widgets in column dividers */
+    .column_divider .sys_button {
+        text-align: center;
+    }
+
+    /* Make column dividers snap to one over another */
+    .yola_inner_heading_wrap.left #yola_heading_block, .yola_inner_heading_wrap.right #yola_heading_block {
+        float: none;
+    }
+
+    #sys_heading {
+        word-wrap: break-word;
+        word-break: break-word;
+    }
+
+    body .column_divider .left, body .column_divider .right {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .mob_menu a:visited {
+        color: #fff;
+    }
+
+    .mob_menu {
+        display: block;
+        background-color: #fff;
+        <% IFPROPERTY format='background: %s;' name='body.background-color'%>;
+        <% IFPROPERTY format='background: %s;' name='header.background-color'%>;
+        <% IFPROPERTY format='background: %s;' name='nav.background-color'%>;
+    }
+
+    .mob_menu.menu_open {
+        position: absolute;
+        min-height: 100%;
+        padding: 1rem 0 0 0;
+        margin: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+
+    .yola_outer_content_wrapper {
+        display: block;
+        padding-top: 0;
+    }
+
+    .mob_menu_overlay {
+        display: none;
+        <% IFPROPERTY format='text-transform: %s;' name='nav.text-transform'%>
+    }
+
+    .menu_open .mob_menu_overlay  {
+        display: block;
+    }
+
+    .mob_menu_toggle {
+        display: block;
+        padding-top: 5%;
+        padding-bottom: 6%;
+        text-align: center;
+        color: #666;
+        cursor: pointer;
+    }
+    .mob_submenu_toggle {
+        list-style: none;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    .new-text-widget img, .old_text_widget img {
+        height: auto;
+    }
+
+    #sys_heading span {
+        font-size: 35px;
+        font-weight: 500;
+    }
+    .sys_navigation {
+        display: none;
+    }
+
+    .mobile_ham {
+        <% IFPROPERTY format='stroke: %s;' name='nav.color'%>
+    }
+
+    .mobile_quit {
+        display: none;
+    }
+
+    .menu_open .mobile_ham {
+        display: none;
+    }
+
+    .menu_open .mobile_quit {
+        display: inline;
+        <% IFPROPERTY format='stroke: %s;' name='nav.color'%>
+    }
+
+    .mob_menu_list {
+        <% IFPROPERTY format='font-family: %s;' name='nav.font-family'%>
+        font-weight: lighter;
+        margin: 0;
+        font-size: 2.2em;
+        line-height: 2;
+        letter-spacing: 0.1em;
+        list-style: none;
+        text-align: center;
+        padding: 0;
+        -webkit-animation-duration: .2s;
+        -webkit-animation-fill-mode: both;
+        -webkit-animation-name: fadeInUp;
+        -moz-animation-duration: .2s;
+        -moz-animation-fill-mode: both;
+        -moz-animation-name: fadeInUp;
+        -o-animation-duration: .2s;
+        -o-animation-fill-mode: both;
+        -o-animation-name: fadeInUp;
+        animation-duration: .2s;
+        animation-fill-mode: both;
+        animation-name: fadeInUp;
+    }
+
+    .mob_menu_overlay .mob_menu_list a {
+        <% IFPROPERTY format='color: %s;' name='nav.color'%>
+    }
+
+    .mob_more_toggle {
+        display: inline-block;
+        cursor: pointer;
+        background: none;
+        border: none;
+        outline: none;
+        margin-left: 8px;
+        <% IFPROPERTY format='stroke: %s;' name='nav.color'%>
+    }
+
+    .up_arrow {
+        display: none;
+    }
+
+    .sub_menu_open svg .down_arrow {
+        display: none;
+    }
+
+    .sub_menu_open .up_arrow {
+        display: inline;
+    }
+
+    .mob_menu_overlay .mob_menu_list .selected a {
+        <% IFPROPERTY format='color: %s;' name='nav:selected.color'%>
+    }
+
+    .sub_menu_open a {
+        <% IFPROPERTY format='color: %s;' name='nav:selected.color'%>
+    }
+
+    .mob_menu_list .sub_menu_open a {
+        <% IFPROPERTY format='color: %s;' name='nav:selected.color'%>
+    }
+
+    .sub_menu_open .mob_more_toggle {
+        <% IFPROPERTY format='stroke: %s;' name='nav:selected.color' %>
+    }
+
+    .mob_submenu_list {
+        <% IFPROPERTY format='font-family: %s;' name='nav.font-family' %>
+        font-weight: lighter;
+        list-style: none;
+        text-align: center;
+        padding: 0 0 5% 0;
+        margin: 0;
+        line-height: 1.6;
+        display: none;
+        -webkit-animation-duration: .2s;
+        -webkit-animation-fill-mode: both;
+        -webkit-animation-name: fadeInUp;
+        -moz-animation-duration: .2s;
+        -moz-animation-fill-mode: both;
+        -moz-animation-name: fadeInUp;
+        -o-animation-duration: .2s;
+        -o-animation-fill-mode: both;
+        -o-animation-name: fadeInUp;
+        animation-duration: .2s;
+        animation-fill-mode: both
+        animation-name: fadeInUp;
+    }
+
+    .sub_menu_open .mob_submenu_list{
+        display: block;
+    }
+
+    .mob_submenu_items {
+        font-size: 0.75em;
+    }
+    .mob_menu_list .mob_nav_selected {
+        <% IFPROPERTY format='color: %s;' name='nav:selected.color' %>
+    }
+
+    .menu_open ~ .yola_outer_content_wrapper {
+        display: none;
+    }
+
+    @-webkit-keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+      }
+      100% {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+      }
+    }
+
+    @-moz-keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        -moz-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+      }
+      100% {
+        opacity: 1;
+        -moz-transform: none;
+        transform: none;
+      }
+    }
+
+    @-o-keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        -o-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+      }
+      100% {
+        opacity: 1;
+        -o-transform: none;
+        transform: none;
+      }
+    }
+
+    @keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+      }
+      100% {
+        opacity: 1;
+        transform: none;
+      }
+    }
+}
+
+<% php %>}<% /php %>

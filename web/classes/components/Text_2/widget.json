@@ -1,0 +1,23 @@
+{
+  "categories": [
+    "popular"
+  ],
+  "deprecatedByAccountOn": null,
+  "deprecatedBySiteOn": null,
+  "description": "Add a block of text to your page. You can format text, add pictures, create links and more.",
+  "dialog": null,
+  "displayName": "Text",
+  "enableForSubscriptionTypes": [],
+  "hasCSS": false,
+  "hasDynamicCSS": false,
+  "icon": "icon-textwidget",
+  "id": "100",
+  "isHiddenWL": false,
+  "name": "Text_2",
+  "properties": {
+    "margin": null,
+    "padding": null,
+    "text": null
+  },
+  "sequence": 10
+}

@@ -1,0 +1,25 @@
+{
+    "sitecomponents": {
+        "site_analytics_js_url": "//analytics.yolacdn.net/tracking.js",
+        "preview_not_allowed_url": "https://www.yola.com/site-not-published"
+    },
+    "common": {
+        "ecwid": {
+            "url": "https://app.yolastore.com/api/v1/"
+        },
+        "recaptcha_v2": {
+            "user_sites": {
+                "site_key": "6LcEthAUAAAAANLeILVZiZpPDbVwyoQuQ7c3qlsy"
+            }
+        },
+        "formservice": {
+            "url": "http://forms.yola.com/formservice/"
+        },
+        "google_maps": {
+            "embed_api_key": "AIzaSyARNP6PBrYdKNmsYf09tU8jRnffQb-sFQg"
+        },
+        "ecwidservice": {
+            "url": "https://ecwidservice.yola.net/"
+        }
+    }
+}

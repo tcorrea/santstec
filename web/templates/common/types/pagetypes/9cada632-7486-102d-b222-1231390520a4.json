@@ -1,0 +1,47 @@
+{
+  "description": "Display products and sell them right from your online store.",
+  "id": "9cada632-7486-102d-b222-1231390520a4",
+  "layout":
+  {
+    "displayName": "1-over-2",
+    "name": "layout_H",
+    "regions": [
+    {
+      "defaultHeight": "400px",
+      "name": "sys_region_1"
+    },
+    {
+      "defaultHeight": "400px",
+      "name": "sys_region_2"
+    },
+    {
+      "defaultHeight": "400px",
+      "name": "sys_region_3"
+    }],
+    "sequence": 8
+  },
+  "name": "Online store",
+  "properties":
+  {
+    "banner.background-color": null,
+    "banner.src": null,
+    "body.background-attachment": null,
+    "body.background-color": null,
+    "body.background-image": null,
+    "body.background-position": null,
+    "body.background-repeat": null,
+    "heading.style": null,
+    "heading.text": null,
+    "layout.lock": null,
+    "logo.background-color": null,
+    "logo.src": null,
+    "logo.visible": null,
+    "meta.description": null,
+    "meta.keywords": null,
+    "title.text": null
+  },
+  "tags": ["##sys_online_store_text_price##",
+    "##sys_online_store_text_description##", "##sys_empty_text_widget##",
+    "##sys_currency##", "##sys_online_store_title##"
+  ]
+}

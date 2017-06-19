@@ -1,0 +1,15 @@
+{
+  "name": "Skyline_v2",
+  "version": "0.0.0",
+  "description": "Skyline Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yola <engineers@yola.com>",
+  "dependencies": {
+    "debounce": "~1.0.0",
+    "mobilemenu": "~0.0.7",
+    "sitelocation": "~0.4.1"
+  }
+}

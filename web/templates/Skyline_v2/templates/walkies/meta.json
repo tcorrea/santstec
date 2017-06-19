@@ -1,0 +1,38 @@
+{
+  "sequence": 13,
+  "title": "Walkies",
+  "slug": "walkies",
+  "id": "663f31d9-384a-4ac2-89ba-ab81c0a08a64",
+  "baseTemplateId": "cd487f33-4699-4a12-a925-2e2f1fa1f8ca",
+  "description": [
+    "Walkies is a fun, versatile template featuring a large banner, multiple font-weights, and the means to highlight your own personal branding. It is fun and easy to modify and make your own to match the style of your business."
+  ],
+  "meta_description": "Walkies is a fun, versatile template featuring a large banner, multiple font-weights, and the means to highlight your own personal branding. It is fun and easy to modify and make your own to match the style of your business.",
+  "attribution": [
+  ],
+  "thumbnails": {
+    "100x100": "/sitetemplates/Skyline_v2/templates/walkies/walkies_100x100.jpg",
+    "300x300": "/sitetemplates/Skyline_v2/templates/walkies/walkies_300x300.jpg",
+    "330x210": "/sitetemplates/Skyline_v2/templates/walkies/walkies_330x210.jpg",
+    "660x460": "/sitetemplates/Skyline_v2/templates/walkies/walkies_660x460.jpg"
+  },
+  "features": [],
+  "style": "skyline_v2",
+  "tags": ["recommended", "gallery"],
+  "demo_url": "https://walkwithwalkies.yolasite.com/",
+  "sitedata": "/Skyline_v2/templates/walkies/site.json",
+  "pages": {
+    "blank": {
+      "slug": "blank",
+      "pagedata": "/Skyline_v2/templates/walkies/pages/blank/page.json"
+    },
+    "index": {
+      "slug": "index",
+      "pagedata": "/Skyline_v2/templates/walkies/pages/index/page.json"
+    },
+    "our-team": {
+      "slug": "our-team",
+      "pagedata": "/Skyline_v2/templates/walkies/pages/our-team/page.json"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+<style media="screen">
+  .layout_3-column {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border-collapse: separate;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  .layout_3-column:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .zone_top, .zone_left, .zone_right, .zone_center {
+    margin: 0;
+    vertical-align: top;
+    line-height: normal;
+    min-width: 100px;
+    float: left;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  .zone_left {
+    padding-right: 2.5px;
+    width: 33.33%;
+  }
+
+  .zone_center {
+    padding: 0 2.5px;
+    width: 33.33%;
+  }
+
+  .zone_right {
+    padding-left: 2.5px;
+    width: 33.33%;
+  }
+
+  @media only screen and (max-width: 736px) {
+    .zone_left, .zone_center, .zone_right {
+      width: 100%;
+      padding: 2.5px 0;
+    }
+  }
+</style>
+
+<div class="layout_3-column sys_layout">
+    <div class="zone_left">
+        <% region name="sys_region_1" tagName="div" description="Insert widgets here" %>
+    </div>
+    <div class="zone_center">
+        <% region name="sys_region_2" tagName="div" description="Insert widgets here" %>
+    </div>
+    <div class="zone_right">
+        <% region name="sys_region_3" tagName="div" description="Insert widgets here" %>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Invalid login details, please try again."
+msgstr "Érvénytelen bejelentkezési adatok, kérjük, próbálja újra."
+
+msgid "Login"
+msgstr "Bejelentkezés"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Password:"
+msgstr "Jelszó:"
+
+msgid "Please enter your login and password below."
+msgstr "Kérjük, adja meg az azonosítóját és jelszavát alább."
+
+msgid "Submit"
+msgstr "Küldés"
+
+msgid "This is a password protected page."
+msgstr "Ez egy jelszóval védett oldal."

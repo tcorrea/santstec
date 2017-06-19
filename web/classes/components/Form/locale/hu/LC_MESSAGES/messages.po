@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>Új mező</strong> hozzáadása</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Név</strong>, <strong>E-mail</strong>, <strong>Telefon</strong>, "
+"<strong></strong> és egy<strong>Üzenet</Strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr "Egy üres űrlap sablon, amelyhez hozzáadhatsz bármilyen mezőt."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Egy kapcsolatfelvételi űrlap hozzáadása a honlapodhoz nagyszerű lehetőséget "
+"jelent látogatók szerzésére. Az űrlapok automatikusan tartalmaznak egy "
+"CAPTCHA-t, amely segít megelőzni a spam e-maileket."
+
+msgid "Blank Form"
+msgstr "Üres Űrlap"
+
+msgid "Button label:"
+msgstr "Gombfelirat:"
+
+msgid "Checkboxes"
+msgstr "Jelölőnégyzetek"
+
+msgid "Choose from a list"
+msgstr "Válassz a listából"
+
+msgid "Contact Us"
+msgstr "Lépjen kapcsolatba velünk"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Email field"
+msgstr "E-mail mező"
+
+msgid "Email form submissions to:"
+msgstr "E-mail űrlap elküldések:"
+
+msgid "Enter a form completion message:"
+msgstr "Adjon meg egy űrlap befejező üzenetet:"
+
+msgid "Form"
+msgstr "Űrlap"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Az űrlap közzététele sikertelen. Kérjük, próbálja újra."
+
+msgid "Multi Line Text"
+msgstr "Többsoros szövegmezők"
+
+msgid "Multiple Choice"
+msgstr "Több választási lehetőség"
+
+msgid "Phone field"
+msgstr "Telefon mező"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"Távolítson el mezőket a <span %s> piros X </span> kattintásával, vagy adjon "
+"hozzá egy új mezőt, rákattintva az \"<strong> Új mező hozzáadása </strong>\" "
+"gombra. Az űrlap beküldések az alapértelmezett e-mail címre lesznek elküldve. "
+"Kattintson a \"<strong> Beállítások </strong>\" fülre a cím módosításához."
+
+msgid "Select a starting form type:"
+msgstr "Válasszon ki egy indítási űrlap típust:"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Single Line Text"
+msgstr "Egysoros Szöveg"
+
+msgid "Starting Form Fields:"
+msgstr "Kezdő űrlapmezők:"
+
+msgid "Submit"
+msgstr "Küldés"
+
+msgid "Text"
+msgstr "Szöveg"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Ezt az üzenetet fogják látni a weboldaladra látogatók, miután <br /> "
+"sikeresen elküldik az űrlapodat."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"Egy űrlap hozzáadásához, válaszd a \"<strong> kapcsolat </strong>\" vagy "
+"\"<strong> üres űrlap </strong>\" sablont."
+
+msgid "URL field"
+msgstr "URL mező"

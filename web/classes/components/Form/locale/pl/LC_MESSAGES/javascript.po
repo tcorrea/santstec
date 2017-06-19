@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+Add</strong> wybór"
+
+msgid "Click here to change"
+msgstr "Zmień"
+
+msgid "Click here to edit"
+msgstr "Edytuj"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"Kliknij w polu formularza aby edytować etykietę, kliknij i przeciągnij pola "
+"formularza aby zmienić ich kolejność lub kliknij na \"Dodaj nowe pole\" aby "
+"dodać pola."
+
+msgid "Click to enter URL"
+msgstr "Kliknij, aby wprowadzić adres URL"
+
+msgid "Click to enter an email address"
+msgstr "Kliknij, aby wprowadzić adres e-mail"
+
+msgid "Click to enter phone number"
+msgstr "Kliknij, aby wprowadzić numer telefonu"
+
+msgid "Click to enter text"
+msgstr "Wprowadź tekst"
+
+msgid "Contact Us"
+msgstr "Skontaktuj się z nami"
+
+msgid "Edit mode"
+msgstr "Tryb edycji"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Message"
+msgstr "Wiadomość"
+
+msgid "Name"
+msgstr "Nazwa"
+
+msgid "Phone"
+msgstr "Nr telefonu"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Usuń pola klikając przycisk <span%s>red X</span>, lub dodaj nowe pole "
+"klikając przycisk \"<strong>Dodaj nowe pole</strong>\". Potwierdzenie "
+"zgłoszenia zostanie wysłane na podany uprzednio adres e-mail. Kliknij "
+"zakładkę \"<strong>Settings</strong>\"  aby zmienić podany adres."
+
+msgid "Reserved Field Name"
+msgstr "Zastrzeżone pole nazwy"
+
+msgid "Saving Form"
+msgstr "Zapisywanie formularza"
+
+msgid "Submit"
+msgstr "Prześlij"
+
+msgid "Unable to save widget."
+msgstr "Nie można zapisać widżetu."
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"Tutaj możesz dodać etykiety pól formularza, zmienić kolejność pól lub dodać "
+"nowe pola formularza."
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"Formularz zawiera etykietę z zastrzeżoną nazwą pola. Zmień nazwę pola aby "
+"kontynuować."
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "Formularz został pomyślnie przesłany! Dziękujemy!"
+
+msgid "item 1"
+msgstr "pozycja 1"
+
+msgid "item 2"
+msgstr "pozycja 2"
+
+msgid "item 3"
+msgstr "pozycja 3"

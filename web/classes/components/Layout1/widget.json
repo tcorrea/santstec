@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "popular"
+  ],
+  "deprecatedByAccountOn": null,
+  "deprecatedBySiteOn": null,
+  "description": "Use the Column Divider Widget to make neat columns on your website. This is a neat way of putting items side-by-side. Simply drag the widget onto your page, and then drop your other widgets inside it. They will automatically display next to each other.",
+  "dialog": null,
+  "displayName": "Columns",
+  "enableForSubscriptionTypes": [],
+  "hasCSS": false,
+  "hasDynamicCSS": false,
+  "icon": "icon-columnwidget",
+  "id": "22",
+  "isHiddenWL": false,
+  "name": "Layout1",
+  "properties": {
+    "left_column.padding": "0 15px 0 0",
+    "lw": "50%",
+    "margin": null,
+    "right_column.padding": "0 0 0 15px",
+    "rw": "50%"
+  },
+  "sequence": 40
+}

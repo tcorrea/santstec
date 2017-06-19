@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Choose A Link"
+msgstr "リンクを選ぶ"
+
+msgid "Saving..."
+msgstr "保存中…"
+
+msgid "Select an image"
+msgstr "画像を一つ選択して下さい"

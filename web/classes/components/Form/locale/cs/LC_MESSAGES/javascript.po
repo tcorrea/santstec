@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+Přidat</strong> výběr"
+
+msgid "Click here to change"
+msgstr "Chcete-li provést změnu, klikněte sem"
+
+msgid "Click here to edit"
+msgstr "Chcete-li provést úpravy, klikněte sem"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"Chcete-li upravit popisek, klikněte do pole formuláře. Chcete-li změnit "
+"pořadí polí formuláře, na pole klikněte a přetáhněte jej na příslušnou "
+"pozici. Chcete-li přidat pole, klikněte na možnost „Přidat nové pole“."
+
+msgid "Click to enter URL"
+msgstr "Klikněte pro vložení adresy URL"
+
+msgid "Click to enter an email address"
+msgstr "Klikněte pro zadání emailové adresy"
+
+msgid "Click to enter phone number"
+msgstr "Klikněte pro zadání telefonního čísla"
+
+msgid "Click to enter text"
+msgstr "Klikněte a zadejte text"
+
+msgid "Contact Us"
+msgstr "Kontaktujte nás"
+
+msgid "Edit mode"
+msgstr "Režim úprav"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Message"
+msgstr "Zpráva"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Phone"
+msgstr "Telefon"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Chcete-li odebrat pole, klikněte na <span %s>červené X</span >. Chcete-li "
+"přidat nové pole, klikněte na tlačítko „<strong >Přidat nové pole</strong>“. "
+"Odeslané formuláře se posílají na vaši registrovanou e-mailovou adresu. "
+"Chcete-li tuto adresu změnit, klikněte na kartu „<strong>Nastavení</strong>“."
+
+msgid "Reserved Field Name"
+msgstr "Rezervovaný název pole"
+
+msgid "Saving Form"
+msgstr "Ukládání formuláře"
+
+msgid "Submit"
+msgstr "Odeslat"
+
+msgid "Unable to save widget."
+msgstr "Widget nelze uložit."
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"Zde můžete přidávat popisky polí formuláře, měnit pořadí polí a přidávat do "
+"formuláře nová pole."
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"Formulář obsahuje popisek s rezervovaným názvem pole. Než budete pokračovat, "
+"pole prosím přejmenujte."
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "Formulář byl úspěšně odeslán. Děkujeme!"
+
+msgid "item 1"
+msgstr "položka 1"
+
+msgid "item 2"
+msgstr "položka 2"
+
+msgid "item 3"
+msgstr "položka 3"

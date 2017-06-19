@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Invalid login details, please try again."
+msgstr "Neplatné přihlašovací údaje. Zkuste to prosím znovu."
+
+msgid "Login"
+msgstr "Přihlášení"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Password:"
+msgstr "Heslo:"
+
+msgid "Please enter your login and password below."
+msgstr "Níže prosím zadejte své přihlašovací jméno a heslo."
+
+msgid "Submit"
+msgstr "Odeslat"
+
+msgid "This is a password protected page."
+msgstr "Tato je stránka chráněna heslem."

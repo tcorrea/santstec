@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid ""
+"Add a block of text to your page. You can format text, add pictures, create "
+"links and more."
+msgstr ""
+"Adjon hozzá egy szövegrészt az oldalához. Formázhatja a szöveget, képeket "
+"adhat hozzá, hivatkozásokat hozhat létre és így tovább."
+
+msgid "Safe Mode"
+msgstr "Csökkentett mód"
+
+msgid "Text"
+msgstr "Szöveg"
+
+msgid "Text Widget"
+msgstr "Szöveg Vezérlőelem"

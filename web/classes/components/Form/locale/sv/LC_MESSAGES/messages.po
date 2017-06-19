@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>Lägg till</strong> nytt fält</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Namn</strong>, <strong>E-post</strong>, <strong>Telefon</strong>, "
+"<strong></strong> och ett <strong>Meddelande</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr "En tom formulärmall där du kan lägga till alla de fält du behöver."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Om du lägger till ett kontaktformulär till din webbsida har dina besökare ett "
+"enkelt sätt att få tag på dig. Formulären inkluderar automatiskt en CAPTCHA "
+"som stoppar spam-meddelanden."
+
+msgid "Blank Form"
+msgstr "Blankt formulär"
+
+msgid "Button label:"
+msgstr "Knappetikett:"
+
+msgid "Checkboxes"
+msgstr "Kryssrutor"
+
+msgid "Choose from a list"
+msgstr "Välj från en lista"
+
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Email field"
+msgstr "Fält för e-postadress"
+
+msgid "Email form submissions to:"
+msgstr "Skicka ifyllda formulär via e-post till:"
+
+msgid "Enter a form completion message:"
+msgstr "Ange ett tackmeddelande för formuläret:"
+
+msgid "Form"
+msgstr "Formulär"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Inlämnandet av formuläret misslyckades. Försök igen."
+
+msgid "Multi Line Text"
+msgstr "Flerradig text"
+
+msgid "Multiple Choice"
+msgstr "Flervalsfrågor"
+
+msgid "Phone field"
+msgstr "Fält för telefonnummer"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"Ta bort fält genom att klicka på det <span %s>röda X:et</span> eller lägg "
+"till ett nytt fält genom att klicka på \"<strong>Lägg till nytt fält</strong>"
+"\"-knappen. Inlämnade formulär skickas till din standardadress. Klicka på "
+"fliken \"<strong>Inställningar</strong>\" för att byta adress."
+
+msgid "Select a starting form type:"
+msgstr "Välj ett färdigt formulär eller bygg en ny från grunden:"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Single Line Text"
+msgstr "Enkelradig text"
+
+msgid "Starting Form Fields:"
+msgstr "Färdig formulärmall:"
+
+msgid "Submit"
+msgstr "Lämna in"
+
+msgid "Text"
+msgstr "Text"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Detta är det meddelande besökare på din webbplats kommer att se efter att "
+"de<br/> fyllt i och lämnat in ditt formulär."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"När du valt ett av ovanstående alternativ så kan du anpassa formuläret efter "
+"dina önskemål."
+
+msgid "URL field"
+msgstr "Fält för webbadress"

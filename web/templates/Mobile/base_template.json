@@ -1,0 +1,33 @@
+{
+  "description": null,
+  "displayName": "Mobile",
+  "id": "5de7108c-56f6-462b-8fed-01f093b3e15e",
+  "isHidden": true,
+  "isPremium": false,
+  "name": "Mobile",
+  "ordinal": 87,
+  "properties": {
+    "mobile.banner.enabled": "true",
+    "mobile.call.enabled": "true",
+    "mobile.header.background-color": "#006699",
+    "mobile.header.font-color": "#ffffff",
+    "mobile.map.enabled": "true"
+  },
+  "propertyScopes": {
+    "page": [],
+    "site": [
+      "mobile.banner.enabled",
+      "mobile.call.enabled",
+      "mobile.header.background-color",
+      "mobile.header.font-color",
+      "mobile.map.enabled"
+    ]
+  },
+  "tags": [
+    "Fashion & Accessories",
+    "Wedding",
+    "Residential & Commercial Services",
+    "Professional Services"
+  ],
+  "usesLegacyHeader": true
+}

@@ -1,0 +1,36 @@
+{
+  "sequence": 0,
+  "title": "Haystack",
+  "slug": "haystack",
+  "id": "1e9dbfee-24d9-471e-842b-8be807c8c489",
+  "baseTemplateId": "cd487f33-4699-4a12-a925-2e2f1fa1f8ca",
+  "description": [
+    "Haystack is a modern template that highlights the key points of a business up front. Haystack is a great match for businesses with online stores, consultants and anyone looking for a sleek design with ultimate flexibility."
+  ],
+  "meta_description": "Haystack is a free small business website template. Create your small business website with Yola using the Haystack website template and start building today.",
+  "thumbnails" : {
+    "100x100": "/sitetemplates/Skyline_v2/templates/haystack/haystack_100x100.jpg",
+    "300x300": "/sitetemplates/Skyline_v2/templates/haystack/haystack_300x300.jpg",
+    "330x210": "/sitetemplates/Skyline_v2/templates/haystack/haystack_330x210.jpg",
+    "660x460": "/sitetemplates/Skyline_v2/templates/haystack/haystack_660x460.jpg"
+  },
+  "features": [],
+  "style":"skyline_v2",
+  "tags": ["recommended", "gallery"],
+  "demo_url": "https://www.onceinahaystack.com/",
+  "sitedata": "/Skyline_v2/templates/haystack/site.json",
+  "pages": {
+    "contact": {
+      "slug": "contact",
+      "pagedata": "/Skyline_v2/templates/haystack/pages/contact/page.json"
+    },
+    "index": {
+      "slug": "index",
+      "pagedata": "/Skyline_v2/templates/haystack/pages/index/page.json"
+    },
+    "blank": {
+      "slug": "blank",
+      "pagedata": "/Skyline_v2/templates/haystack/pages/blank/page.json"
+    }
+  }
+}

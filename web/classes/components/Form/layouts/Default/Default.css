@@ -1,0 +1,132 @@
+/* ------------------------------------------------------------------------------------------------------- */
+/*
+        regular css
+*/
+/* ------------------------------------------------------------------------------------------------------- */
+
+
+div.sys_yola_form{
+    padding:5px;
+}
+
+div.sys_yola_form form{
+    margin:0;padding:5px 10px;
+}
+
+div.sys_yola_form input,
+div.sys_yola_form textarea,
+div.sys_yola_form select {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.sys_yola_form .text,
+.sys_yola_form .email,
+.sys_yola_form .tel,
+.sys_yola_form .url{
+    width:100%;
+    max-width: 250px;
+    padding:3px;
+}
+
+div.sys_yola_form input.radio{
+    margin-right:5px;
+}
+
+div.sys_yola_form input.checkbox{
+    margin-right:5px;
+}
+
+div.sys_yola_form input.submit{
+    margin:10px 0 0 0;
+}
+
+div.sys_yola_form select{
+    margin-left:5px;
+    margin-top:2px;
+}
+
+div.sys_yola_form textarea{
+    width:100%;
+    max-width: 300px;
+    height:100px;
+    padding:3px;
+    resize: none;
+}
+
+div.sys_yola_form h2{
+    margin:0;
+    padding:15px 0;
+}
+
+div.sys_yola_form p.label{
+    margin:0;
+    padding:10px 0 3px 0;
+}
+
+p.form-paragraph{
+    margin:15px 0 0 0;
+    padding:3px 0;
+}
+
+div.yola-form-message{
+    padding:5px;
+}
+
+
+/* ------------------------------------------------------------------------------------------------------- */
+/*
+        mobile css
+*/
+/* ------------------------------------------------------------------------------------------------------- */
+
+
+div.sys_yola_form_mobile{
+    padding:0;
+}
+
+div.sys_yola_form_mobile form{
+    padding:0;
+    margin:0;
+}
+
+div.sys_yola_form_mobile textarea,
+div.sys_yola_form_mobile input.text{
+    width:90%;
+    padding:3px;
+}
+
+@keyframes recaptchaspin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.recaptcha-wrap {
+  height: 74px;
+  margin: 10px 0 3px 0;
+  position: relative;
+  width: 304px;
+  transform-origin: left top;
+}
+
+.g-recaptcha {
+  position: relative;
+}
+
+.recaptcha-spin {
+  animation: recaptchaspin 1.2s infinite linear;
+  background-image: url(https://www.gstatic.com/recaptcha/api2/logo_48.png);
+  background-size: contain;
+  display: block;
+  height: 32px;
+  left: calc(50% - 16px);
+  opacity: 0.8;
+  position: absolute;
+  top: calc(50% - 16px);
+  width: 32px;
+}

@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Columns"
+msgstr "列"
+
+msgid "Margin"
+msgstr "マージン"
+
+msgid ""
+"Use the Column Divider Widget to make neat columns on your website. This is a "
+"neat way of putting items side-by-side. Simply drag the widget onto your "
+"page, and then drop your other widgets inside it. They will automatically "
+"display next to each other."
+msgstr ""
+"あなたのウェッブサイト上で簡潔なカラムを作成するために、カラムディバイダウィ"
+"ジェットを使用して下さい。これは、アイテムを並べて置くのに素敵な方法です。あな"
+"たのページ上にウィジェットをドラッグし、それからその中にあなたの他のウィジェッ"
+"トをドロップすればいいだけなのです。それらは自動的にお互いの隣に表示されます。"

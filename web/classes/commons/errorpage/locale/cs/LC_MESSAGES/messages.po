@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Page Not Found"
+msgstr "Stránka nenalezena"
+
+msgid ""
+"Sorry, we can't seem to find that page, click <a href=\"%1\">here</a> to "
+"return to the homepage."
+msgstr ""
+"Je nám líto, ale tuto stránku nemůžeme nalézt. Klikněte <a href=\"%1\">sem</"
+"a> pro návrat na domovskou stránku."

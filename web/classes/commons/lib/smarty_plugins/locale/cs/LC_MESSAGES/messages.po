@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Go to www.yola.com and sign up today!"
+msgstr "Přejděte na adresu www.yola.com a zaregistrujte se ještě dnes!"
+
+#, php-format
+msgid "Make a <a %1$s >Free Website</a> with <span %2$s >Yola.</span>"
+msgstr ""
+"Vytvořte si ve službě <span %2$s >Yola</span> <a %1$s >webové stránky zdarma</"
+"a>"
+
+#, php-format
+msgid "Make a <a %1$s>free website</a> with <a %2$s><span>Yola</span></a>"
+msgstr ""
+"Vytvořte si ve službě <a %2$s><span>Yola</span></a> <a %1$s>webové stránky "
+"zdarma</a>"
+
+#, php-format
+msgid "Make a <a %1$s>website</a> with <a %2$s><span>Yola</span></a>"
+msgstr ""
+"Vytvořte si <a %1$s>webové stránky</a> ve službě <a %2$s><span>Yola</span></a>"
+
+msgid "No HTML skills required. Build your website in minutes."
+msgstr "Vůbec nemusíte umět HTML. Webové stránky si postavíte za pár minut."
+
+msgid "This free website was made using Yola."
+msgstr "Tyto webové stránky zdarma byly vytvořeny pomocí služby Yola."
+
+msgid "This website was made using Yola."
+msgstr "Tyto webové stránky byly vytvořeny pomocí služby Yola."
+
+msgid "Visit Yola.com to create your own free website"
+msgstr "Navštivte web Yola.com a vytvořte si vlastní webové stránky zdarma"
+
+msgid "Visit Yola.com to create your own website"
+msgstr "Navštivte web Yola.com a vytvořte si vlastní webové stránky"

@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong> Добавить</strong> новое поле</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Имя</strong>, <strong>Email</strong>, <strong>Телефон</strong>, "
+"<strong></strong> и <strong>Сообщение</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr ""
+"Чистое пространство с шаблона, в котором вы можете добавить любые поля по "
+"своему желанию."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Добавление формы обратной связи на ваш сайт обеспечивает вашим посетителям "
+"легкий способ общения с вами. Формы автоматически включают механизм CAPTCHA, "
+"помогающий предотвратить спам по электронной почте."
+
+msgid "Blank Form"
+msgstr "Чистый Бланк"
+
+msgid "Button label:"
+msgstr "Метка кнопки:"
+
+msgid "Checkboxes"
+msgstr "Флажки"
+
+msgid "Choose from a list"
+msgstr "Выберите из списка"
+
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Email field"
+msgstr "Поле электронного адреса"
+
+msgid "Email form submissions to:"
+msgstr "Отправляйте формы по электронной почте:"
+
+msgid "Enter a form completion message:"
+msgstr "Введите сообщение об окончании формы:"
+
+msgid "Form"
+msgstr "Форма"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Отправка формы не удалась. Пожалуйста, попробуйте снова."
+
+msgid "Multi Line Text"
+msgstr "Многолинейный текст"
+
+msgid "Multiple Choice"
+msgstr "Множественный выбор"
+
+msgid "Phone field"
+msgstr "Поле номера телефона"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"Уберите поля, щелкнув по <span %s>красному X</span>, или добавьте новое поле, "
+"нажав кнопку \"<strong>Добавить новое поле</strong>\". Поданные формуляры "
+"будут отправлены по вашему электронному адресу по умолчанию. Выберите вкладку "
+"\"<strong>Настройки</strong>\", чтобы изменить этот адрес."
+
+msgid "Select a starting form type:"
+msgstr "Выберите тип стартовой формы:"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Single Line Text"
+msgstr "Однострочный текст"
+
+msgid "Starting Form Fields:"
+msgstr "Начинаем формирование полей:"
+
+msgid "Submit"
+msgstr "Поместите"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Это сообщение, которое посетитель вашего сайта увидит после <br /> удачной "
+"отправки вашей формы."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"Чтобы добавить форму, выберите \"<strong>Свяжитесь с нами</strong>\" или "
+"шаблон \"<strong>Пустая форма</strong>\"."
+
+msgid "URL field"
+msgstr "Поле адреса ссылки"

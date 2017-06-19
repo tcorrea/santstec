@@ -1,0 +1,43 @@
+{
+  "sequence": 2,
+  "title": "Vanguard",
+  "slug": "vanguard",
+  "id": "b916db24-d5c8-4750-9fad-d288d44aefaa",
+  "baseTemplateId": "cd487f33-4699-4a12-a925-2e2f1fa1f8ca",
+  "description": [
+    "Vanguard is a polished consultant-style template that is great for contractor, start-up, photography or portfolio websites. This template offers a modern aesthetic with a continuous scroll flow that provides a unique visual presentation."
+  ],
+  "meta_description": "Build a website for free using Yola website templates like Vanguard, a small business website template. Make your website today with the Vanguard website template.",
+  "attribution": [
+    {
+      "type": "photography",
+      "anchorText": "Ryan Rivera",
+      "uri": "http://sweetdaystudio.com/"
+    }
+  ],
+  "thumbnails" : {
+    "100x100": "/sitetemplates/Skyline_v2/templates/vanguard/vanguard_100x100.jpg",
+    "300x300": "/sitetemplates/Skyline_v2/templates/vanguard/vanguard_300x300.jpg",
+    "330x210": "/sitetemplates/Skyline_v2/templates/vanguard/vanguard_330x210.jpg",
+    "660x460": "/sitetemplates/Skyline_v2/templates/vanguard/vanguard_660x460.jpg"
+  },
+  "features": [],
+  "style": "skyline_v2",
+  "tags": ["recommended", "gallery"],
+  "demo_url": "https://www.julesaverysmith.com/",
+  "sitedata": "/Skyline_v2/templates/vanguard/site.json",
+  "pages": {
+    "blank": {
+      "slug": "blank",
+      "pagedata": "/Skyline_v2/templates/vanguard/pages/blank/page.json"
+    },
+    "index": {
+      "slug": "index",
+      "pagedata": "/Skyline_v2/templates/vanguard/pages/index/page.json"
+    },
+    "say-hello": {
+      "slug": "say-hello",
+      "pagedata": "/Skyline_v2/templates/vanguard/pages/say-hello/page.json"
+    }
+  }
+}

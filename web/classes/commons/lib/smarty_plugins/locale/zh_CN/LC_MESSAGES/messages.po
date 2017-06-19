@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Go to www.yola.com and sign up today!"
+msgstr "马上到 www.yola.com 注册！"
+
+#, php-format
+msgid "Make a <a %1$s >Free Website</a> with <span %2$s >Yola.</span>"
+msgstr "用 <span %2$s > Yola </span> 创建一个 <a %1$s > 免费网站 </a>。"
+
+#, php-format
+msgid "Make a <a %1$s>free website</a> with <a %2$s><span>Yola</span></a>"
+msgstr "用 <a %2$s><span> Yola </span></a> 创建一个 <a %1$s> 免费网站 </a>"
+
+#, php-format
+msgid "Make a <a %1$s>website</a> with <a %2$s><span>Yola</span></a>"
+msgstr "用 <a %2$s><span> Yola </span></a> 建立一个 <a %1$s> 网站 </a>"
+
+msgid "No HTML skills required. Build your website in minutes."
+msgstr "无需 HTML 技能。几分钟内建立你的网站。"
+
+msgid "This free website was made using Yola."
+msgstr "该免费网站是使用 Yola"
+
+msgid "This website was made using Yola."
+msgstr "这个网站是使用 Yola 创建的。"
+
+msgid "Visit Yola.com to create your own free website"
+msgstr "访问Yola.com创建你自己的免费网站"
+
+msgid "Visit Yola.com to create your own website"
+msgstr "访问 Yola.com 来创建你自己的网站"

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+Lägg till</strong> val"
+
+msgid "Click here to change"
+msgstr "Klicka här för att ändra"
+
+msgid "Click here to edit"
+msgstr "Klicka här för att redigera"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"Klicka i ett formulärfält för att redigera etiketten, klicka på och dra "
+"formulärfälten för att ändra deras ordningsföljd eller klicka på \"Lägg till "
+"nytt fält\" för att lägga till fält."
+
+msgid "Click to enter URL"
+msgstr "Klicka för att fylla i webbadress"
+
+msgid "Click to enter an email address"
+msgstr "Klicka för att fylla i en e-postadress"
+
+msgid "Click to enter phone number"
+msgstr "Klicka för att fylla i ett telefonnummer"
+
+msgid "Click to enter text"
+msgstr "Klicka för att fylla i text"
+
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+msgid "Edit mode"
+msgstr "Redigeringsläge"
+
+msgid "Email"
+msgstr "E-post "
+
+msgid "Message"
+msgstr "Meddelande"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Phone"
+msgstr "Telefon"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Ta bort fält genom att klicka på <span %s> röd X </span> eller lägg till ett "
+"nytt fält genom att klicka på \"<strong> Lägg till nytt fält </strong>\"-"
+"knappen. Inlämnade formulär skickas till din registrerade e-postadress. "
+"Klicka på fliken \"<strong>Inställningar</strong>\" för att ändra denna "
+"adress."
+
+msgid "Reserved Field Name"
+msgstr "Reserverat fältnamn"
+
+msgid "Saving Form"
+msgstr "Sparar formuläret"
+
+msgid "Submit"
+msgstr "Lämna in"
+
+msgid "Unable to save widget."
+msgstr "Det gick inte att spara widget."
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"Du kan lägga till etiketter för formulärfält, ändra fältens ordningsföljd "
+"eller lägga till nya formulärfält här."
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"Formuläret innehåller en etikett med ett reserverat fältnamn. Byt namn på "
+"fältet för att fortsätta."
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "Formuläret har skickats! Tack!"
+
+msgid "item 1"
+msgstr "post 1"
+
+msgid "item 2"
+msgstr "post 2"
+
+msgid "item 3"
+msgstr "post 3"

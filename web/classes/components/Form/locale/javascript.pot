@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr ""
+
+msgid "Click here to change"
+msgstr ""
+
+msgid "Click here to edit"
+msgstr ""
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+
+msgid "Click to enter URL"
+msgstr ""
+
+msgid "Click to enter an email address"
+msgstr ""
+
+msgid "Click to enter phone number"
+msgstr ""
+
+msgid "Click to enter text"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "Edit mode"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+
+msgid "Reserved Field Name"
+msgstr ""
+
+msgid "Saving Form"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Unable to save widget."
+msgstr ""
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr ""
+
+msgid "item 1"
+msgstr ""
+
+msgid "item 2"
+msgstr ""
+
+msgid "item 3"
+msgstr ""

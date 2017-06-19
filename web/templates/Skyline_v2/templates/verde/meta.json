@@ -1,0 +1,36 @@
+{
+  "sequence": 3,
+  "title": "Verde",
+  "slug": "verde",
+  "id": "65804e53-023b-4cf4-a8eb-77f640cf2e92",
+  "baseTemplateId": "cd487f33-4699-4a12-a925-2e2f1fa1f8ca",
+  "description": [
+    "Verde is the perfect template for established businesses looking to grow their online presence. This clean layout helps you to highlight your core business values, enticing users to click through to the next page. Make a positive first impression with this template."
+  ],
+  "meta_description": "Build your website with Yola. Verde is a great website template that is free and perfect for portfolio and small business websites. Build your website for free.",
+  "thumbnails" : {
+    "100x100": "/sitetemplates/Skyline_v2/templates/verde/verde_100x100.jpg",
+    "300x300": "/sitetemplates/Skyline_v2/templates/verde/verde_300x300.jpg",
+    "330x210": "/sitetemplates/Skyline_v2/templates/verde/verde_330x210.jpg",
+    "660x460": "/sitetemplates/Skyline_v2/templates/verde/verde_660x460.jpg"
+  },
+  "features": [],
+  "style":"skyline_v2",
+  "tags": ["recommended", "gallery"],
+  "demo_url": "https://www.very-verde.com/",
+  "sitedata": "/Skyline_v2/templates/verde/site.json",
+  "pages" : {
+    "blank": {
+      "slug": "blank",
+      "pagedata": "/Skyline_v2/templates/verde/pages/blank/page.json"
+    },
+    "contact": {
+      "slug": "contact",
+      "pagedata": "/Skyline_v2/templates/verde/pages/contact/page.json"
+    },
+    "index": {
+      "slug": "index",
+      "pagedata": "/Skyline_v2/templates/verde/pages/index/page.json"
+    }
+  }
+}

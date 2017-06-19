@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>增添</strong> 新领域</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>姓名</strong>、<strong>电子邮件</strong>、<strong>电话</strong> "
+"<strong></strong>和<strong>讯息</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr "可在其中添加您需要的任何字段的空白表单模板。"
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"通过在您的网站中添加联系人表单，可以让访问者方便地与您联系。表单会自动包括一个"
+"验证码，可帮助防止垃圾电子邮件。"
+
+msgid "Blank Form"
+msgstr "空白表单"
+
+msgid "Button label:"
+msgstr "按钮标签："
+
+msgid "Checkboxes"
+msgstr "复选框"
+
+msgid "Choose from a list"
+msgstr "从列表中选择"
+
+msgid "Contact Us"
+msgstr "联系我们"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Email field"
+msgstr "邮箱字段"
+
+msgid "Email form submissions to:"
+msgstr "将表单提交内容通过电子邮件发送到："
+
+msgid "Enter a form completion message:"
+msgstr "输入表单完成消息："
+
+msgid "Form"
+msgstr "表单"
+
+msgid "Form Post Failed. Please try again."
+msgstr "表单发布失败。请重试。"
+
+msgid "Multi Line Text"
+msgstr "多行文本"
+
+msgid "Multiple Choice"
+msgstr "多项选择"
+
+msgid "Phone field"
+msgstr "电话字段"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"通过单击<span %s>红色 X</span> 删除字段，或者通过单击“<strong>添加新字段</"
+"strong>”按钮添加新字段。表单提交内容会自动发送至您的默认电子邮件地址。单"
+"击“<strong>设置</strong>”选项卡可更改此地址。"
+
+msgid "Select a starting form type:"
+msgstr "选择一个初始表格的种类："
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Single Line Text"
+msgstr "单行"
+
+msgid "Starting Form Fields:"
+msgstr "起始论坛字段："
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Text"
+msgstr "文本"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr "这是您网站的访问者<br />成功提交了您的表单后将看到的消息。"
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"要添加表单，请选择“<strong>联系我们</strong>”或“<strong>空白表单</strong>”模"
+"板。"
+
+msgid "URL field"
+msgstr "URL 字段"

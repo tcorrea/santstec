@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "popular",
+    "media"
+  ],
+  "deprecatedByAccountOn": null,
+  "deprecatedBySiteOn": null,
+  "description": "Drag and drop this widget to add a single picture to your page.",
+  "dialog": {
+    "width": 640,
+    "height": 474,
+    "auto": true,
+    "persist": false,
+    "path": "/system/Image/dialog/Image.php"
+  },
+  "displayName": "Picture",
+  "enableForSubscriptionTypes": [],
+  "hasCSS": true,
+  "hasDynamicCSS": false,
+  "icon": "icon-picturewidget",
+  "id": "1",
+  "isHiddenWL": false,
+  "name": "Image",
+  "properties": {
+    "alt": null,
+    "imgwidth": null,
+    "link.href": null,
+    "link.target": null,
+    "margin": null,
+    "optimize": "false",
+    "padding": "",
+    "position": "center",
+    "src": null
+  },
+  "sequence": 20
+}

@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "forms",
+    "popular"
+  ],
+  "deprecatedByAccountOn": null,
+  "deprecatedBySiteOn": null,
+  "description": "Adding a contact form to your website provides an easy way for your visitors to get hold of you. Forms automatically include a CAPTCHA, which helps prevent spam emails.",
+  "dialog": {
+    "width": 630,
+    "height": 490,
+    "auto": true,
+    "path": "/system/Form/dialog/Form.php"
+  },
+  "displayName": "Form",
+  "enableForSubscriptionTypes": [],
+  "hasCSS": true,
+  "hasDynamicCSS": false,
+  "icon": "icon-formwidget",
+  "id": "c7667390-cadf-102d-b0de-1231390789a3",
+  "isHiddenWL": false,
+  "name": "Form",
+  "properties": {
+    "destination": null,
+    "email": null,
+    "json": null,
+    "pageId": null,
+    "siteId": null,
+    "successMessage": null,
+    "userId": null
+  },
+  "sequence": 4010
+}

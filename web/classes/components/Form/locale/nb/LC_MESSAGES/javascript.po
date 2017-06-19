@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+Legg til</strong> valg"
+
+msgid "Click here to change"
+msgstr "Klikk her for å endre"
+
+msgid "Click here to edit"
+msgstr "Klikk her for å redigere"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"Klikk i et skjemafelt for å redigere etiketten, klikk og dra feltene rundt "
+"for å endre rekkefølgen, eller klikk på \"Legg til nytt felt\" for å legge "
+"til felter."
+
+msgid "Click to enter URL"
+msgstr "Klikk her for å skrive inn URL"
+
+msgid "Click to enter an email address"
+msgstr "Klikk her for å skrive inn e-postadresse"
+
+msgid "Click to enter phone number"
+msgstr "Klikk her for å skrive inn telefonnummer"
+
+msgid "Click to enter text"
+msgstr "Klikk for å skrive inn tekst"
+
+msgid "Contact Us"
+msgstr "Kontakt oss"
+
+msgid "Edit mode"
+msgstr "Redigeringsmodus"
+
+msgid "Email"
+msgstr "Epost"
+
+msgid "Message"
+msgstr "Melding"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Phone"
+msgstr "Telefon"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Fjern felter ved å trykke på <span %s>rød X</span>, eller legg til et nytt "
+"felt ved å klikke på \"<strong>Legg til et nytt felt</strong>\"-knappen. "
+"Skjemainnsendinger blir sendt til din registrerte e-postadresse. Klikk på "
+"\"<strong>Innstillinger</strong>\" for å endre denne adressen."
+
+msgid "Reserved Field Name"
+msgstr "Reservert feltnavn"
+
+msgid "Saving Form"
+msgstr "Lagrer skjema"
+
+msgid "Submit"
+msgstr "Send inn"
+
+msgid "Unable to save widget."
+msgstr "Kan ikke lagre widget."
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"Du kan legge til skjemafeltetiketter, endre feltrekkefølgen, eller legge til "
+"nye skjemafelter her."
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"Skjemaet inneholder en etikett med et reservert navn. Vennligst endre feltet "
+"for å fortsette."
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "Skjemaet er sendt! Tusen takk!"
+
+msgid "item 1"
+msgstr "vare 1"
+
+msgid "item 2"
+msgstr "vare 2"
+
+msgid "item 3"
+msgstr "vare 3"

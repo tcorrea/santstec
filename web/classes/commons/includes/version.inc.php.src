@@ -1,0 +1,7 @@
+<?php
+$version = @SITEBUILDERUI_REVISION@;
+$cdnDomains = array();
+$cdnDomains[] = "http://@CDN_HOST_1@";
+$cdnDomains[] = "http://@CDN_HOST_2@";
+$cdnDomains[] = "http://@CDN_HOST_3@";
+?>

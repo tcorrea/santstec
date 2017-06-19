@@ -1,0 +1,27 @@
+{
+  "title": "Blank Site Template",
+  "slug": "blank",
+  "id": "ee008824-617e-416a-a176-9d65aeed5bc8",
+  "baseTemplateId": "cd487f33-4699-4a12-a925-2e2f1fa1f8ca",
+  "description": [
+    "Blank site template."
+  ],
+  "thumbnail": "",
+  "large_image": "",
+  "features": [],
+  "style":"",
+  "tags": [],
+  "demo_url": "",
+  "hidden": true,
+  "sitedata": "/Skyline_v2/templates/blank/site.json",
+  "pages": {
+    "index": {
+      "slug": "index",
+      "pagedata": "/Skyline_v2/templates/blank/pages/index/page.json"
+    },
+    "blank": {
+      "slug": "blank",
+      "pagedata": "/Skyline_v2/templates/blank/pages/blank/page.json"
+    }
+  }
+}

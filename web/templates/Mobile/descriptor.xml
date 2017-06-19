@@ -1,0 +1,29 @@
+
+<style>
+    <name>Mobile</name>
+    <description></description>
+    <displayName></displayName>
+    <price></price>
+    <sequence>101230</sequence>
+    <hidden>false</hidden>
+    <author>
+        <name>Peter Bodechtel</name>
+        <link>http://www.yola.com</link>
+        <description><![CDATA[]]>
+        </description>
+    </author>
+    <properties>
+        <property name="mobile.header.background-color">#006699</property>
+        <property name="mobile.header.font-color">#ffffff</property>
+        <property name="mobile.banner.enabled">true</property>
+        <property name="mobile.call.enabled">true</property>
+        <property name="mobile.map.enabled">true</property>
+    </properties>
+    <tags>
+        <tag>Professional Services</tag>
+        <tag>Residential &amp; Commercial Services</tag>
+        <tag>Fashion &amp; Accessories</tag>
+        <tag>Wedding</tag>
+    </tags>
+</style>
+

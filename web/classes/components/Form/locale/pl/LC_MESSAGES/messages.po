@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>Dodaj</strong> nowe pole</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Nazwa</strong>, <strong>Adres e-mail</strong>, <strong>Telefon</"
+"strong>, <strong></strong> i <strong>wiadomość</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr "Pusty szablon formularza do którego można dodać dowolne pola."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Umieszczenie przez ciebie formularza kontaktowego na twojej stronie "
+"internetowej umożliwi użytkownikom łatwe komunikowanie się z tobą. W "
+"formularzach automatycznie umieszczane jest CAPTCHA pomagające chronić cię "
+"przed spamem."
+
+msgid "Blank Form"
+msgstr "Pusty formularz"
+
+msgid "Button label:"
+msgstr "Etykieta przycisku:"
+
+msgid "Checkboxes"
+msgstr "Pola wyboru"
+
+msgid "Choose from a list"
+msgstr "Wybierz z listy"
+
+msgid "Contact Us"
+msgstr "Skontaktuj się z nami"
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Email field"
+msgstr "Pole adresu e-mail"
+
+msgid "Email form submissions to:"
+msgstr "Wyślij formularz zgłoszenia do:"
+
+msgid "Enter a form completion message:"
+msgstr "Wpisz podziękowanie za wypełnienie formularza:"
+
+msgid "Form"
+msgstr "Formularz"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Przesłanie formularza nie powiodło się. Proszę spróbować ponownie."
+
+msgid "Multi Line Text"
+msgstr "Kilka wierszy tekstu"
+
+msgid "Multiple Choice"
+msgstr "Menu wielokrotnego wyboru"
+
+msgid "Phone field"
+msgstr "Pole numeru telefonu"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"Usuń pola klikając <span %s>czerwony X</span> lub dodaj nowe pole klikając "
+"przycisk „<strong>Dodaj nowe pole</strong>”. Formularze zgłoszeń są wysyłane "
+"na Twój domyślny adres e-mail. Możesz go zmienić klikając zakładkę "
+"„<strong>Ustawienia</strong>”."
+
+msgid "Select a starting form type:"
+msgstr "Wybierz typ formularza startowego:"
+
+msgid "Settings"
+msgstr "Ustawienia"
+
+msgid "Single Line Text"
+msgstr "Tekst jednowierszowy"
+
+msgid "Starting Form Fields:"
+msgstr "Pola formularza startowego:"
+
+msgid "Submit"
+msgstr "Prześlij"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Tą wiadomość klienci zobaczą po < br / > pomyślnym przesłaniu formularza."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"Aby dodać formularz, wybierz szablon \"<strong>Skontaktuj się z nami</strong>"
+"\" lub \"<strong>Pusty formularz</strong>\"."
+
+msgid "URL field"
+msgstr "Pole adresu URL"

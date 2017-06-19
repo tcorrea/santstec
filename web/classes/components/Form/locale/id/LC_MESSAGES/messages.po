@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>Add</strong> new field</span>"
+msgstr "<strong>Tambahkan</strong> bidang baru</span>"
+
+msgid ""
+"<strong>Name</strong>, <strong>Email</strong>, <strong>Phone</strong>, "
+"<strong></strong> and a <strong>Message</strong>"
+msgstr ""
+"<strong>Nama</strong>, <strong>Email</strong>, <strong>Telepon</strong>, "
+"<strong></strong> dan <strong>Pesan</strong>"
+
+msgid "A blank form template to which you can add any fields you wish."
+msgstr ""
+"Template formulir kosong yang dapat Anda tambahi dengan bidang apa pun yang "
+"Anda inginkan."
+
+msgid ""
+"Adding a contact form to your website provides an easy way for your visitors "
+"to get hold of you. Forms automatically include a CAPTCHA, which helps "
+"prevent spam emails."
+msgstr ""
+"Menambahkan formulir kontak ke situs web Anda merupakan cara yang mudah bagi "
+"para pengunjung untuk menghubungi Anda. Formulir secara otomatis menyertakan "
+"CAPTCHA, yang membantu untuk menghindari email spam."
+
+msgid "Blank Form"
+msgstr "Formulir Kosong"
+
+msgid "Button label:"
+msgstr "Label tombol:"
+
+msgid "Checkboxes"
+msgstr "Checkbox"
+
+msgid "Choose from a list"
+msgstr "Pilih dari daftar"
+
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+msgid "Edit"
+msgstr "Sunting"
+
+msgid "Email field"
+msgstr "Larik email"
+
+msgid "Email form submissions to:"
+msgstr "Kirim pengajuan formulir ke:"
+
+msgid "Enter a form completion message:"
+msgstr "Masukkan pesan penyelesaian formulir:"
+
+msgid "Form"
+msgstr "Formulir"
+
+msgid "Form Post Failed. Please try again."
+msgstr "Gagal Mengeposkan Formulir. Silakan coba lagi."
+
+msgid "Multi Line Text"
+msgstr "Teks Multibaris"
+
+msgid "Multiple Choice"
+msgstr "Pilihan Berganda"
+
+msgid "Phone field"
+msgstr "Larik Telepon"
+
+#, php-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your default email address. Click on the \"<strong>Settings</strong>"
+"\" tab to change this address."
+msgstr ""
+"Hapus kolom dengan meng-klik <span %s> merah X</span>, atau tambahkan kolom "
+"baru dengan meng-klik tombol \"<strong> Tambah kolom baru</strong>\". "
+"Pengiriman form akan terkirim ke alamat email langsung. Klik tab  \"<strong> "
+"Pengaturan</strong> untuk mengubah alamat ini."
+
+msgid "Select a starting form type:"
+msgstr "Pilih tipe formulir awal:"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Single Line Text"
+msgstr "Teks Satu Baris"
+
+msgid "Starting Form Fields:"
+msgstr "Bidang Formulir Awal:"
+
+msgid "Submit"
+msgstr "Kirim"
+
+msgid "Text"
+msgstr "Teks"
+
+msgid ""
+"This is the message that your site visitor will see after<br /> successfully "
+"submitting your form."
+msgstr ""
+"Ini adalah pesan yang akan dilihat oleh pengunjung situs Anda setelah <br /"
+">berhasil mengisi formulir Anda."
+
+msgid ""
+"To add a form, choose a \"<strong>Contact Us</strong>\" or \"<strong>Blank "
+"Form</strong>\" template."
+msgstr ""
+"Untuk menambahkan formulir, pilih template \"<strong>Hubungi Kami</strong>\" "
+"atau \"<strong>Formulir Kosong</strong>\"."
+
+msgid "URL field"
+msgstr "Larik URL"

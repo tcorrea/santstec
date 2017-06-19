@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^(router\.inc\.php|resources/|templates/|classes/|definitions/) - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ router.inc.php/$1

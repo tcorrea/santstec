@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Align"
+msgstr "Igazítás"
+
+msgid "Alternative Text"
+msgstr "Alternatív szöveg"
+
+msgid "Choose A Link"
+msgstr "Válassz egy linket"
+
+msgid "Clear"
+msgstr "Törlés"
+
+msgid "Double click to upload a photo"
+msgstr "Dupla kattintással feltölthetsz egy képet"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr ""
+"Fogd és helyezd el ezt a modult, hogy hozzáadj egyetlen képet az oldaladhoz."
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Edit With Aviary"
+msgstr "Szerkesszen Aviary-val"
+
+msgid "Image"
+msgstr "Kép"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Margin"
+msgstr "Margó"
+
+msgid "Off"
+msgstr "Kikapcsolva"
+
+msgid "On"
+msgstr "Bekapcsolva"
+
+msgid "Optimize"
+msgstr "Optimalizálás"
+
+msgid "Picture"
+msgstr "Kép"
+
+msgid "Select Image"
+msgstr "Kép kiválasztása"

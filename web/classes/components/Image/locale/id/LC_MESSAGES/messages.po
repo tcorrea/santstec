@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Align"
+msgstr "Perataan"
+
+msgid "Alternative Text"
+msgstr "Teks Alternatif"
+
+msgid "Choose A Link"
+msgstr "Pilih Tautan"
+
+msgid "Clear"
+msgstr "Hapus"
+
+msgid "Double click to upload a photo"
+msgstr "Klik dua kali untuk mengunggah foto"
+
+msgid "Drag and drop this widget to add a single picture to your page."
+msgstr ""
+"Tarik dan lepaskan widget ini untuk menambahkan sebuah gambar ke halaman Anda."
+
+msgid "Edit"
+msgstr "Sunting"
+
+msgid "Edit With Aviary"
+msgstr "Sunting dengan Aviary"
+
+msgid "Image"
+msgstr "Gambar"
+
+msgid "Link"
+msgstr "Tautan"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Off"
+msgstr "Mati"
+
+msgid "On"
+msgstr "Nyala"
+
+msgid "Optimize"
+msgstr "Optimalkan"
+
+msgid "Picture"
+msgstr "Gambar"
+
+msgid "Select Image"
+msgstr "Pilih Gambar"

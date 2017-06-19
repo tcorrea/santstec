@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "<strong>+Add</strong> choice"
+msgstr "<strong>+Добавить</strong> выбор"
+
+msgid "Click here to change"
+msgstr "Нажмите здесь, чтобы изменить"
+
+msgid "Click here to edit"
+msgstr "Нажмите здесь для редактирования"
+
+msgid ""
+"Click in a form field to edit the label, click and drag form fields around to "
+"change the order, or click on \"Add new field\" to add fields."
+msgstr ""
+"Щелкните кнопкой мыши в поле формы для редактирования метки, щелкните кнопкой "
+"мыши и перетащите поле формы для изменения порядка или нажмите на кнопку "
+"«Добавить новое поле», чтобы добавить поля."
+
+msgid "Click to enter URL"
+msgstr "Щелкните, чтобы ввести адрес ссылки"
+
+msgid "Click to enter an email address"
+msgstr "Щелкните, чтобы ввести адрес электронной почты"
+
+msgid "Click to enter phone number"
+msgstr "Щелкните, чтобы ввести номер телефона"
+
+msgid "Click to enter text"
+msgstr "Кликните, чтобы ввести текст"
+
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+msgid "Edit mode"
+msgstr "Режим редактирования"
+
+msgid "Email"
+msgstr "Электронная почта"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Phone"
+msgstr "Телефон"
+
+#, javascript-format
+msgid ""
+"Remove fields by clicking the <span %s>red X</span>, or add a new field by "
+"clicking the \"<strong>Add new field</strong>\" button. Form submissions are "
+"sent to your registered email address. Click on the \"<strong>Settings</"
+"strong>\" tab to change this address."
+msgstr ""
+"Удалите поля, нажав <span %s>красный X</span> или добавьте новое поле, нажав "
+"кнопку \"<strong>Добавить новое поле</strong>\". Формы отправляются на "
+"зарегистрированный вами адрес электронной почты. Нажмите на вкладку "
+"\"<strong>Настройки</strong>\", чтобы изменить этот адрес."
+
+msgid "Reserved Field Name"
+msgstr "Наименование зарезервированного поля"
+
+msgid "Saving Form"
+msgstr "Сохраняем форму"
+
+msgid "Submit"
+msgstr "Поместите"
+
+msgid "Unable to save widget."
+msgstr "Не удается сохранить виджет."
+
+msgid ""
+"You can add form field labels, change the field order, or add new form fields "
+"here."
+msgstr ""
+"Вы можете добавлять описания к полям, менять порядок полей или добавлять "
+"новые поля здесь."
+
+msgid ""
+"Your form contains a label with a reserved field name. Please rename the "
+"field to continue."
+msgstr ""
+"Ваш бланк содержит метку с зарезервированным именем поля. Для продолжения, "
+"пожалуйста, переименуйте поле."
+
+msgid "Your form has been successfully submitted! Thank you!"
+msgstr "Ваша форма была успешно отправлена! Спасибо!"
+
+msgid "item 1"
+msgstr "объект 1"
+
+msgid "item 2"
+msgstr "объект 2"
+
+msgid "item 3"
+msgstr "объект 3"

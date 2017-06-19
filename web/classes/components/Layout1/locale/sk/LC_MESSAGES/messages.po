@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Columns"
+msgstr "Stĺpce"
+
+msgid "Margin"
+msgstr "Okraj"
+
+msgid ""
+"Use the Column Divider Widget to make neat columns on your website. This is a "
+"neat way of putting items side-by-side. Simply drag the widget onto your "
+"page, and then drop your other widgets inside it. They will automatically "
+"display next to each other."
+msgstr ""
+"Miniaplikáciu Rozdeľovač stĺpcov môžete použiť na vytvorenie úhľadných "
+"stĺpcov na svojej stránke. Dokážete tak elegantne ukladať položky vedľa seba. "
+"Jednoducho presuňte miniaplikáciu na svoju stránku, a potom do nej presúvajte "
+"svoje ostatné miniaplikácie. Automaticky sa budú zobrazovať jedna vedľa "
+"druhej."
