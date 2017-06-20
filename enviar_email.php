@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Document</title>
+	
+	<title>SantsTec - Envio de email</title>
+	<meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="imagens/favicon.ico">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
 </head>
 <body>
 	<?php 
@@ -27,16 +37,17 @@
 	$headers .= "MINE-Version: 1.0\n";
 
 	if(mail($to, $subject, $message, $headers)){
-		echo "Email enviado com sucesso! <a href='/'>Voltar</a>";
+		echo "<div class='container'>
+		Email enviado com sucesso! <a href='/'>Voltar</a>
+		</div>";
 	}else{
-		echo "Erro no envio do email. Tente novamente mais tarde ou entre em contato pelo email: santstec@santstec.com.<br>
-		<a href='/'>Voltar</a>";
+		echo "
+		<div class='container'>
+		Erro no envio do email. Tente novamente mais tarde ou entre em contato pelo email: santstec@santstec.com.<br>
+		<a href='/'>Voltar</a>
+		</div>
+		";
 	}
-
-	
-	
-	
-
 	?>
 </body>
 </html>
