@@ -41,7 +41,7 @@
 	?>	
 	<div class='container'>
 		<div class="jumbotron">
-		  <h1 class="text-success">SUCESSO!</h1>
+		  <h1 class="label label-success">SUCESSO!</h1>
 		  <p>Email enviado com sucesso!</p>
 		  <p><a class="btn btn-primary btn-lg" href="/" role="button">Voltar</a></p>
 		</div>		
@@ -52,7 +52,7 @@
 		
 		<div class='container'>
 			<div class="jumbotron">
-			  <h1 class="text-danger">ERRO!</h1>
+			  <h1 class="label label-danger">ERRO!</h1>
 			  <p>Erro no envio do email. Tente novamente mais tarde ou entre em contato pelo email: santstec@santstec.com.</p>
 			  <p><a class="btn btn-primary btn-lg" href="/" role="button">Voltar</a></p>
 			</div>		
