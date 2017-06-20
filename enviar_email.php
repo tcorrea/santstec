@@ -27,10 +27,10 @@
 	$headers .= "MINE-Version: 1.0\n";
 
 	if(mail($to, $subject, $message, $headers)){
-		echo "Email enviado com sucesso! <a href='index.html'>Voltar</a>";
+		echo "Email enviado com sucesso! <a href='/'>Voltar</a>";
 	}else{
 		echo "Erro no envio do email. Tente novamente mais tarde ou entre em contato pelo email: santstec@santstec.com.<br>
-		<a href='index.html'>Voltar</a>";
+		<a href='/'>Voltar</a>";
 	}
 
 	
