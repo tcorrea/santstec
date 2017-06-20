@@ -37,17 +37,28 @@
 	$headers .= "MINE-Version: 1.0\n";
 
 	if(mail($to, $subject, $message, $headers)){
-		echo "<div class='container'>
-		Email enviado com sucesso! <a href='/'>Voltar</a>
-		</div>";
-	}else{
-		echo "
+
+	?>	
+	<div class='container'>
+		<div class="jumbotron">
+		  <h1 class="text-success">SUCESSO!</h1>
+		  <p>Email enviado com sucesso!</p>
+		  <p><a class="btn btn-primary btn-lg" href="/" role="button">Voltar</a></p>
+		</div>		
+	</div>
+
+	<?php 
+		}else{ ?>
+		
 		<div class='container'>
-		Erro no envio do email. Tente novamente mais tarde ou entre em contato pelo email: santstec@santstec.com.<br>
-		<a href='/'>Voltar</a>
+			<div class="jumbotron">
+			  <h1 class="text-danger">ERRO!</h1>
+			  <p>Erro no envio do email. Tente novamente mais tarde ou entre em contato pelo email: santstec@santstec.com.</p>
+			  <p><a class="btn btn-primary btn-lg" href="/" role="button">Voltar</a></p>
+			</div>		
 		</div>
-		";
-	}
+		
+	<?php }
 	?>
 </body>
 </html>
